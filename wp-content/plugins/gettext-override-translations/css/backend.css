@@ -1,0 +1,23 @@
+img.dc_delete,img.dc_delete_iw{
+	display:inline-block;
+	margin-top:4px;
+	cursor:pointer;
+}
+
+
+span.ns_small{
+	font-style:italic;
+	font-size:10px;
+	display:block;
+	margin:2px 0;
+}
+
+tr.internal_warning{
+	background:#ddd;
+}
+
+td.td_textarea textarea{ width:345px; }
+
+#dc_sortable input,#dc_sortable textarea{
+	z-index:999;
+}

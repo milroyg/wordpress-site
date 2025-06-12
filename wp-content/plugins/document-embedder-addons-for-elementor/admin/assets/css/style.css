@@ -1,0 +1,20 @@
+/*Add branding icon for each addons*/
+.elementor-element .icon {
+  position: relative;
+}
+.elementor-element .icon .bl_icon::after {
+    content: "DE";
+    font-size: 11px;
+    position: absolute;
+    font-weight: 900;
+    right: 5px;
+    top: 5px;
+    background: #4527A4;
+    color: #fff;
+    padding: 2px 5px 3px 5px;
+    border-radius: 3px;
+    font-family: monospace;
+    text-align: center;
+    line-height: 1;
+    vertical-align: middle;
+}

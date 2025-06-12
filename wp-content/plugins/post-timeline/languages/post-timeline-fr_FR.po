@@ -1,0 +1,1531 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Post Timeline\n"
+"POT-Creation-Date: 2017-11-15 16:16+0500\n"
+"PO-Revision-Date: 2022-09-13 11:53+0000\n"
+"Language-Team: French (France)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: post-timeline.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#: admin/partials/ptl-settings.php:691
+msgid "0.5"
+msgstr "0,5"
+
+#: admin/partials/ptl-settings.php:205
+msgid "03/10/2017"
+msgstr "03/10/2017"
+
+#: admin/partials/ptl-settings.php:207
+msgid "05-16-18"
+msgstr "16/05/18"
+
+#: admin/partials/ptl-settings.php:204
+msgid "10 March, 2010"
+msgstr "10 mars 2010"
+
+#: admin/partials/ptl-settings.php:364
+msgid "14"
+msgstr "14"
+
+#: admin/partials/ptl-settings.php:206
+msgid "16-05-18"
+msgstr "16-05-18"
+
+#: admin/partials/ptl-settings.php:411
+msgid "1px"
+msgstr "1px"
+
+#: admin/partials/ptl-settings.php:209
+msgid "2001-03-10"
+msgstr "2001-03-10"
+
+#: admin/partials/ptl-settings.php:201
+msgid "23 Mar"
+msgstr "23 mars"
+
+#: admin/partials/ptl-settings.php:412
+msgid "2px"
+msgstr "2px"
+
+#: admin/partials/ptl-settings.php:413
+msgid "3px"
+msgstr "3px"
+
+#: admin/partials/ptl-settings.php:414
+msgid "4px"
+msgstr "4px"
+
+#: admin/partials/multiple-templates-pro.php:30
+msgid "50+ Amazing Timeline Templates"
+msgstr "Plus de 50 modèles de chronologie incroyables"
+
+#: admin/partials/ptl-settings.php:415
+msgid "5px"
+msgstr "5px"
+
+#: admin/partials/admin-fields.php:43
+msgid "A catchy tag line here"
+msgstr "Un slogan accrocheur ici"
+
+#: admin/partials/ptl-settings.php:575
+msgid "Add a hex color code to the base line"
+msgstr "Ajouter un code de couleur hexadécimal à la ligne de base"
+
+#: admin/partials/ptl-settings.php:458
+msgid "Add a hex color code to the container background"
+msgstr "Ajouter un code de couleur hexadécimal à l'arrière-plan du conteneur"
+
+#: admin/partials/ptl-settings.php:561
+msgid "Add a hex color code to the navigation style"
+msgstr "Ajouter un code de couleur hexadécimal au style de navigation"
+
+#: admin/partials/ptl-settings.php:472
+msgid "Add a hex color code to the post background"
+msgstr "Ajouter un code de couleur hexadécimal à l'arrière-plan du message"
+
+#: includes/admin/manager.php:170
+msgctxt "add new on admin bar"
+msgid "Post Timeline"
+msgstr "Chronologie des publications"
+
+#: includes/admin/manager.php:225
+msgid "Add New Tag"
+msgstr "Ajouter une nouvelle balise"
+
+#: includes/admin/manager.php:172
+msgid "Add New Timeline Post"
+msgstr "Ajouter une nouvelle publication sur la chronologie"
+
+#: admin/partials/multiple-templates-pro.php:217
+msgid "Add Timeline Shortcode"
+msgstr "Ajouter un code abrégé de chronologie"
+
+#: admin/partials/admin-fields.php:28
+msgid "Add URL"
+msgstr "Ajouter l'URL"
+
+#: admin/partials/ptl-settings.php:783
+msgid "Add your custom CSS to add on the timeline page"
+msgstr "Ajoutez votre CSS personnalisé à ajouter sur la page de chronologie"
+
+#: includes/admin/manager.php:169
+msgctxt "admin menu"
+msgid "Post Timelines"
+msgstr "Calendrier des publications"
+
+#: admin/partials/multiple-templates-pro.php:230
+msgid ""
+"After adding the short code to the page, it is now its time to publish the "
+"page and get ready for the amazing timelines in action"
+msgstr ""
+"Après avoir ajouté le code court à la page, il est maintenant temps de "
+"publier la page et de se préparer pour les incroyables chronologies en action"
+
+#. Author of the plugin
+msgid "AgileLogix"
+msgstr "AgileLogix"
+
+#: includes/vendors/elementor/widget.php:324
+msgid "Ajax Loader"
+msgstr "Chargeur Ajax"
+
+#: includes/core.php:189
+msgid "All Categories"
+msgstr "toutes catégories"
+
+#: includes/core.php:215 includes/admin/manager.php:229
+msgid "All Tags"
+msgstr "Toutes les balises"
+
+#: includes/admin/manager.php:176
+msgid "All Timeline Post"
+msgstr "Toutes les publications chronologiques"
+
+#: admin/partials/ptl-settings.php:30 admin/partials/ptl-settings.php:597
+msgid "Animation"
+msgstr "Animation"
+
+#: admin/partials/ptl-settings.php:699
+msgid "Animation Easing"
+msgstr "Animation d'assouplissement"
+
+#: admin/partials/ptl-settings.php:604
+msgid "Animation Enabled"
+msgstr "Animations activées"
+
+#: admin/partials/ptl-settings.php:625
+msgid "Animation on scroll"
+msgstr "Animation sur défilement"
+
+#: includes/admin/manager.php:605
+msgid "animation speed max: '2' and min: '0.1'"
+msgstr "vitesse d'animation max : '2' et min : '0.1'"
+
+#: admin/partials/ptl-settings.php:644
+msgid "Animation Type"
+msgstr "Type d'animation"
+
+#: admin/partials/shortcode-popup-html.php:209
+msgid "Arrange your timeline based on sorting sequence."
+msgstr "Organisez votre chronologie en fonction de la séquence de tri."
+
+#: admin/partials/ptl-settings.php:185
+#: admin/partials/shortcode-popup-html.php:204
+#: includes/vendors/elementor/widget.php:462
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: admin/partials/ptl-settings.php:651
+#: admin/partials/shortcode-popup-html.php:77
+msgid "BackIn Left/Right"
+msgstr "BackIn Gauche/Droite"
+
+#: admin/partials/ptl-settings.php:11 admin/partials/ptl-settings.php:51
+msgid "Basic"
+msgstr "De base"
+
+#: admin/partials/ptl-settings.php:652
+#: admin/partials/shortcode-popup-html.php:78
+#: includes/vendors/elementor/widget.php:445
+msgid "BounceIn"
+msgstr "Rebondir"
+
+#: admin/partials/ptl-settings.php:653
+#: admin/partials/shortcode-popup-html.php:79
+#: includes/vendors/elementor/widget.php:446
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: admin/partials/ptl-settings.php:259
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: includes/vendors/elementor/widget.php:276
+msgid "Category IDs"
+msgstr "ID de catégorie"
+
+#: admin/partials/shortcode-popup-html.php:139
+msgid "Choose a color for the background."
+msgstr "Choisissez une couleur pour le fond."
+
+#: admin/partials/ptl-settings.php:353
+msgid "Choose a font-family for the timeline"
+msgstr "Choisissez une famille de polices pour la chronologie"
+
+#: admin/partials/shortcode-popup-html.php:190
+msgid "Choose a navigation direction for your timeline."
+msgstr "Choisissez une direction de navigation pour votre chronologie."
+
+#: admin/partials/shortcode-popup-html.php:174
+msgid "Choose a skin tone for your timeline."
+msgstr "Choisissez une couleur de peau pour votre chronologie."
+
+#: admin/partials/shortcode-popup-html.php:292
+msgid "Choose a source from where the post will be added to the timeline."
+msgstr ""
+"Choisissez une source à partir de laquelle la publication sera ajoutée à la "
+"chronologie."
+
+#: admin/partials/shortcode-cpt.php:66
+msgid "Choose by which criteria the post content is classified or categorized."
+msgstr ""
+"Choisissez selon quels critères le contenu de la publication est classé ou "
+"catégorisé."
+
+#: admin/partials/ptl-settings.php:586
+msgid "Choose how many posts to appear per page."
+msgstr "Choisissez le nombre de messages à afficher par page."
+
+#: admin/partials/ptl-settings.php:264
+msgid "Choose how your timeline gallery will appear"
+msgstr "Choisissez comment votre galerie de chronologie apparaîtra"
+
+#: admin/partials/ptl-settings.php:212
+msgid "Choose the date format for your posts."
+msgstr "Choisissez le format de date pour vos messages."
+
+#: admin/partials/shortcode-ptl.php:29 admin/partials/shortcode-cpt.php:92
+msgid "Choose the number of displays per page"
+msgstr "Choisissez le nombre d'affichages par page"
+
+#: admin/partials/shortcode-popup-html.php:44
+msgid "Choose the orientation of your timeline."
+msgstr "Choisissez l'orientation de votre chronologie."
+
+#: admin/partials/ptl-settings.php:418
+msgid "Choose the radius of the post corners"
+msgstr "Choisissez le rayon des coins des poteaux"
+
+#: admin/partials/ptl-settings.php:764
+msgid "Choose the style of loader for the animations"
+msgstr "Choisissez le style de chargeur pour les animations"
+
+#: admin/partials/shortcode-ptl.php:15 admin/partials/shortcode-cpt.php:23
+msgid "Choose the type of Category for the timeline."
+msgstr "Choisissez le type de catégorie pour la chronologie."
+
+#: admin/partials/shortcode-ptl.php:43 admin/partials/shortcode-cpt.php:78
+msgid "Choose what type of description will be in the timeline"
+msgstr "Choisissez quel type de description sera dans la chronologie"
+
+#: admin/partials/shortcode-cpt.php:15
+msgid "Choose what type of post to include in the timeline."
+msgstr "Choisissez le type de publication à inclure dans la chronologie."
+
+#: admin/partials/ptl-settings.php:175
+msgid "Choose whether your timeline will be tag-based or date-based."
+msgstr ""
+"Choisissez si votre chronologie sera basée sur des balises ou sur la date."
+
+#: admin/partials/ptl-settings.php:189
+msgid "Choose which direction your timeline will be displayed in"
+msgstr "Choisissez dans quelle direction votre chronologie sera affichée"
+
+#: admin/partials/shortcode-ptl.php:50 admin/partials/shortcode-cpt.php:85
+msgid "Choose which IDs to exclude"
+msgstr "Choisissez les identifiants à exclure"
+
+#: admin/partials/ptl-settings.php:328
+msgid "Choose which social media links to display on your timeline"
+msgstr ""
+"Choisissez les liens de médias sociaux à afficher sur votre chronologie"
+
+#: admin/partials/shortcode-popup-html.php:118
+msgid "Choose Your Tag Type From Date and Tag."
+msgstr "Choisissez votre type de balise à partir de la date et de la balise."
+
+#: admin/partials/shortcode-popup-html.php:314
+msgid "Close"
+msgstr "proche"
+
+#: admin/partials/admin-fields.php:145
+msgid "Color of Post (Default Color will be used if not selected)."
+msgstr ""
+"Couleur du message (la couleur par défaut sera utilisée si elle n'est pas "
+"sélectionnée)."
+
+#: admin/partials/ptl-settings.php:451
+msgid "Container Background"
+msgstr "Fond de conteneur"
+
+#: admin/partials/ptl-settings.php:439
+msgid "Container Background Color"
+msgstr "Couleur de fond du conteneur"
+
+#: admin/partials/ptl-settings.php:360
+msgid "Content Font Size"
+msgstr "Taille de la police du contenu"
+
+#: includes/admin/manager.php:595
+msgid "Content font size should'nt be in negative."
+msgstr "La taille de la police du contenu ne doit pas être négative."
+
+#: admin/partials/multiple-templates-pro.php:135
+msgid ""
+"Create a classic horizontal timeline that can display posts from left to "
+"right"
+msgstr ""
+"Créez une chronologie horizontale classique qui peut afficher les "
+"publications de gauche à droite"
+
+#: admin/partials/multiple-templates-pro.php:126
+msgid ""
+"Create a timeline with information posted on the left side & right sides."
+msgstr ""
+"Créez une chronologie avec des informations affichées sur les côtés gauche "
+"et droit."
+
+#: admin/partials/multiple-templates-pro.php:203
+msgid "Create Your Post"
+msgstr "Créez votre publication"
+
+#: admin/partials/ptl-settings.php:36 admin/partials/ptl-settings.php:775
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: admin/partials/ptl-settings.php:779
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: admin/partials/admin-fields.php:37
+msgid "Custom Ordering of Posts, default \"1\"."
+msgstr "Ordre personnalisé des messages, par défaut \"1\"."
+
+#: admin/partials/shortcode-popup-html.php:288
+msgid "Custom Post Type"
+msgstr "Type de message personnalisé"
+
+#: admin/partials/multiple-templates-pro.php:179
+msgid "Customizable Timelines"
+msgstr "Chronologies personnalisables"
+
+#: admin/partials/ptl-settings.php:394
+#: admin/partials/shortcode-popup-html.php:170
+#: includes/vendors/elementor/widget.php:367
+msgid "Dark"
+msgstr "Sombre"
+
+#: admin/partials/ptl-settings.php:430
+#: admin/partials/shortcode-popup-html.php:218
+msgid "Dashed"
+msgstr "Pointillé"
+
+#: admin/partials/ptl-settings.php:169
+#: admin/partials/shortcode-popup-html.php:113
+msgid "Date Based"
+msgstr "Basé sur la date"
+
+#: includes/admin/feedback.php:183
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: includes/admin/feedback.php:94
+msgid "Deactivation FeedBack"
+msgstr "Désactivation"
+
+#: admin/partials/ptl-settings.php:410
+msgid "Default"
+msgstr "Défaut"
+
+#: admin/partials/ptl-settings.php:348
+msgid "Default Font"
+msgstr "Police par défaut"
+
+#: admin/partials/admin-fields.php:66
+msgid "Default Post image"
+msgstr "Image de publication par défaut"
+
+#: admin/partials/ptl-settings.php:186
+#: admin/partials/shortcode-popup-html.php:205
+#: includes/vendors/elementor/widget.php:463
+msgid "Descending"
+msgstr "Descendant"
+
+#: admin/partials/multiple-templates-pro.php:34
+#: admin/partials/multiple-templates-pro.php:42
+msgid "Different Navigations Styles"
+msgstr "Différents styles de navigation"
+
+#: admin/partials/ptl-settings.php:274 admin/partials/shortcode-ptl.php:57
+#: admin/partials/shortcode-cpt.php:37
+msgid "Disable"
+msgstr "Désactiver"
+
+#: admin/partials/ptl-settings.php:224
+msgid "Disabled"
+msgstr "Handicapé"
+
+#: admin/partials/shortcode-ptl.php:26 admin/partials/shortcode-cpt.php:89
+#: includes/vendors/elementor/widget.php:313
+msgid "Display per page"
+msgstr "Affichage par page"
+
+#: admin/partials/ptl-settings.php:78
+msgid "Display Post Images"
+msgstr "Afficher les images des publications"
+
+#: admin/partials/multiple-templates-pro.php:229
+msgid "Display Timeline"
+msgstr "Afficher la chronologie"
+
+#: admin/partials/multiple-templates-pro.php:153
+msgid ""
+"Display your timeline in 4 different navigational styles on your timeline."
+msgstr ""
+"Affichez votre chronologie dans 4 styles de navigation différents sur votre "
+"chronologie."
+
+#: admin/partials/ptl-settings.php:429
+#: admin/partials/shortcode-popup-html.php:217
+msgid "Dotted"
+msgstr "Pointé"
+
+#: includes/admin/manager.php:227
+msgid "Edit Tag"
+msgstr "Modifier la balise"
+
+#: includes/admin/manager.php:174
+msgid "Edit Timeline Post"
+msgstr "Modifier la publication de la chronologie"
+
+#: admin/partials/ptl-settings.php:735
+msgid "Enable or disable images lazy-load"
+msgstr "Activer ou désactiver le chargement différé des images"
+
+#: admin/partials/shortcode-popup-html.php:270
+msgid "Enable this include option to add custom HTML on the timeline."
+msgstr ""
+"Activez cette option d'inclusion pour ajouter du code HTML personnalisé sur "
+"la chronologie."
+
+#: admin/partials/ptl-settings.php:612
+msgid "Enable this option to be able to add icons"
+msgstr "Activez cette option pour pouvoir ajouter des icônes"
+
+#: admin/partials/ptl-settings.php:106
+msgid "Enable this option to disable post content"
+msgstr "Activez cette option pour désactiver le contenu de la publication"
+
+#: admin/partials/ptl-settings.php:66
+msgid "Enable this option to show post icons"
+msgstr "Activez cette option pour afficher les icônes de publication"
+
+#: admin/partials/shortcode-popup-html.php:157
+msgid "Enable this to open links in a different tab."
+msgstr "Activez cette option pour ouvrir des liens dans un autre onglet."
+
+#: admin/partials/ptl-settings.php:444
+msgid "Enable/disable container background color"
+msgstr "Activer/désactiver la couleur d'arrière-plan du conteneur"
+
+#: admin/partials/ptl-settings.php:499
+msgid "Enable/disable timeline navigation"
+msgstr "Activer/désactiver la navigation dans la chronologie"
+
+#: includes/vendors/elementor/widget.php:263
+msgid "Enter Taxanomy"
+msgstr "Entrez la taxonomie"
+
+#: admin/partials/ptl-settings.php:245
+msgid "Enter the slug (website identifier) of your timeline’s page"
+msgstr ""
+"Entrez le slug (identifiant de site Web) de la page de votre chronologie"
+
+#: admin/partials/admin-fields.php:44
+msgid "Enter Your Tag Line."
+msgstr "Entrez votre slogan."
+
+#: admin/partials/admin-fields.php:7
+msgid "Event Details"
+msgstr "Détails de l'évènement"
+
+#: admin/partials/admin-fields.php:53
+msgid "Event Media"
+msgstr "Médias événementiels"
+
+#: includes/vendors/elementor/widget.php:278
+#: includes/vendors/elementor/widget.php:294
+msgid "example: 10,13,2,4"
+msgstr "exemple : 10,13,2,4"
+
+#: includes/vendors/elementor/widget.php:304
+msgid "example: 11,12,5,7"
+msgstr "exemple : 11,12,5,7"
+
+#: admin/partials/shortcode-ptl.php:39 admin/partials/shortcode-cpt.php:74
+#: includes/vendors/elementor/widget.php:253
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: admin/partials/shortcode-ptl.php:47 admin/partials/shortcode-cpt.php:82
+#: includes/vendors/elementor/widget.php:302
+msgid "Exclude IDs"
+msgstr "Exclure les identifiants"
+
+#: admin/partials/ptl-settings.php:633
+msgid "Experience posts animation by scrolling up or down"
+msgstr ""
+"Découvrez l'animation des messages en faisant défiler vers le haut ou vers "
+"le bas"
+
+#: admin/partials/ptl-settings.php:657
+#: admin/partials/shortcode-popup-html.php:83
+msgid "FadeDown Left/Right"
+msgstr "Fondu vers la gauche/droite"
+
+#: admin/partials/ptl-settings.php:654
+#: admin/partials/shortcode-popup-html.php:80
+msgid "FadeIn"
+msgstr "Fondu d'entrée"
+
+#: admin/partials/ptl-settings.php:658
+#: admin/partials/shortcode-popup-html.php:84
+msgid "FadeIn Left/Right"
+msgstr "Fondu d'entrée gauche/droite"
+
+#: admin/partials/ptl-settings.php:656
+#: admin/partials/shortcode-popup-html.php:82
+msgid "FadeInDown"
+msgstr "Fondu vers le bas"
+
+#: admin/partials/ptl-settings.php:655
+#: admin/partials/shortcode-popup-html.php:81
+msgid "FadeUp Left/Right"
+msgstr "Fondu vers le haut gauche/droite"
+
+#: admin/partials/shortcode-ptl.php:19 admin/partials/shortcode-cpt.php:27
+#: includes/vendors/elementor/widget.php:292
+msgid "Filter By IDs"
+msgstr "Filtrer par ID"
+
+#: admin/partials/ptl-settings.php:661
+#: admin/partials/shortcode-popup-html.php:87
+msgid "Flip Left/Right"
+msgstr "Basculer vers la gauche/droite"
+
+#: admin/partials/ptl-settings.php:660
+#: admin/partials/shortcode-popup-html.php:86
+#: includes/vendors/elementor/widget.php:442
+msgid "Flip X"
+msgstr "Retourner X"
+
+#: admin/partials/ptl-settings.php:659
+#: admin/partials/shortcode-popup-html.php:85
+#: includes/vendors/elementor/widget.php:441
+msgid "Flip Y"
+msgstr "Retourner Y"
+
+#: admin/partials/ptl-settings.php:123 admin/partials/admin-fields.php:103
+msgid "Font Awesome"
+msgstr "Police géniale"
+
+#: admin/partials/ptl-settings.php:338
+msgid "Fonts"
+msgstr "Polices"
+
+#: admin/partials/admin-fields.php:29
+msgid "For Separate Page URL(Optional)."
+msgstr "Pour une URL de page séparée (facultatif)."
+
+#: admin/partials/shortcode-ptl.php:38 admin/partials/shortcode-cpt.php:73
+msgid "Full Content"
+msgstr "Contenu complet"
+
+#: includes/vendors/elementor/widget.php:254
+msgid "Full Text"
+msgstr "Texte intégral"
+
+#: admin/partials/admin-fields.php:78
+msgid "Gallery images"
+msgstr "Images de la galerie"
+
+#: admin/partials/shortcode-popup-html.php:6
+msgid "Generate Post-Timeline Shortcode"
+msgstr "Générer un code court après la chronologie"
+
+#: admin/partials/multiple-templates-pro.php:257
+msgid "Get Support!"
+msgstr "Obtenir de l'aide!"
+
+#: admin/partials/multiple-templates-pro.php:50
+msgid "Gutenberg Based Timelines(Chat, Notification, Block Timelines)"
+msgstr ""
+"Chronologies basées sur Gutenberg (chat, notification, chronologie des blocs)"
+
+#: admin/partials/ptl-settings.php:717
+msgid "Help"
+msgstr "Aider"
+
+#: admin/partials/ptl-settings.php:199
+msgid "Hide"
+msgstr "Cacher"
+
+#: admin/partials/ptl-settings.php:98
+msgid "Hide Content"
+msgstr "Masquer le contenu"
+
+#: admin/partials/shortcode-popup-html.php:39
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: includes/vendors/elementor/widget.php:352
+msgid "Horizontal Layout"
+msgstr "Disposition horizontale"
+
+#: admin/partials/multiple-templates-pro.php:98
+#: admin/partials/multiple-templates-pro.php:134
+msgid "Horizontal Timeline"
+msgstr "Chronologie horizontale"
+
+#: admin/partials/multiple-templates-pro.php:188
+msgid "How Timelines Work"
+msgstr "Comment fonctionnent les délais"
+
+#: admin/partials/admin-fields.php:27
+msgid "https://example.com/my-story"
+msgstr "https://exemple.com/mon-histoire"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://posttimeline.com/"
+msgstr "https://posttimeline.com/"
+
+#: includes/admin/feedback.php:130
+msgid "I couldn't get the plugin to work"
+msgstr "Je n'arrive pas à faire fonctionner le plugin"
+
+#: includes/admin/feedback.php:126
+msgid "I found a better plugin"
+msgstr "J'ai trouvé un meilleur plugin"
+
+#: includes/admin/feedback.php:122
+msgid "I no longer need the plugin"
+msgstr "Je n'ai plus besoin du plugin"
+
+#: admin/partials/multiple-templates-pro.php:180
+msgid ""
+"In Post timeline, you can confidently customize any timeline based on your "
+"goals."
+msgstr ""
+"Dans la chronologie des publications, vous pouvez personnaliser en toute "
+"confiance n'importe quelle chronologie en fonction de vos objectifs."
+
+#: admin/partials/shortcode-popup-html.php:261
+#: includes/vendors/elementor/widget.php:507
+msgid "Include HTML"
+msgstr "Inclure HTML"
+
+#: admin/partials/shortcode-popup-html.php:197
+msgid "Increase or decrease the Navigation distance to the timeline tag."
+msgstr ""
+"Augmentez ou diminuez la distance de navigation jusqu'à la balise de la "
+"chronologie."
+
+#: admin/partials/shortcode-popup-html.php:315
+msgid "Insert Shortcode"
+msgstr "Insérer un code court"
+
+#: admin/partials/multiple-templates-pro.php:204
+msgid ""
+"Instead of watching other timelines, create your own timeline post and "
+"leverage top-rated timeline features"
+msgstr ""
+"Au lieu de regarder d'autres chronologies, créez votre propre publication de "
+"chronologie et tirez parti des fonctionnalités de chronologie les mieux "
+"notées"
+
+#: includes/admin/feedback.php:118
+msgid "It's a temporary deactivation"
+msgstr "C'est une désactivation temporaire"
+
+#: admin/partials/ptl-settings.php:727
+msgid "Lazy Load"
+msgstr "Charge paresseuse"
+
+#: admin/partials/multiple-templates-pro.php:125
+msgid "Left And Right Timeline"
+msgstr "Chronologie gauche et droite"
+
+#: admin/partials/multiple-templates-pro.php:88
+msgid "Left Side Timeline"
+msgstr "Chronologie du côté gauche"
+
+#: admin/partials/ptl-settings.php:236
+msgid "Length of post content by the character count"
+msgstr "Longueur du contenu du message en nombre de caractères"
+
+#: admin/partials/shortcode-popup-html.php:122
+msgid "Letter Spacing"
+msgstr "L'espacement des lettres"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Leverage"
+msgstr "Effet de levier"
+
+#: admin/partials/ptl-settings.php:388
+#: admin/partials/shortcode-popup-html.php:169
+#: includes/vendors/elementor/widget.php:368
+msgid "Light"
+msgstr "Lumière"
+
+#: admin/partials/multiple-templates-pro.php:161
+msgid "Light And Dark Template"
+msgstr "Modèle clair et sombre"
+
+#: admin/partials/ptl-settings.php:662
+#: admin/partials/shortcode-popup-html.php:88
+msgid "lightSpeed Left/Right"
+msgstr "lightSpeed Gauche/Droite"
+
+#: admin/partials/shortcode-popup-html.php:229
+msgid "Line Color"
+msgstr "Couleur de la ligne"
+
+#: admin/partials/ptl-settings.php:423
+msgid "Line Style"
+msgstr "Style de ligne"
+
+#: admin/partials/shortcode-popup-html.php:148
+#: includes/vendors/elementor/widget.php:494
+msgid "Link open in new tab"
+msgstr "Lien ouvert dans un nouvel onglet"
+
+#: includes/layouts/base.php:709
+msgid "Load More"
+msgstr "Charger plus"
+
+#: admin/partials/shortcode-ptl.php:54 admin/partials/shortcode-cpt.php:34
+msgid "Load more"
+msgstr "Charger plus"
+
+#: admin/partials/ptl-settings.php:275
+msgid "Load more Button"
+msgstr "Charger plus Bouton"
+
+#: admin/partials/ptl-settings.php:276
+msgid "Load more on Scroll"
+msgstr "Charger plus sur Scroll"
+
+#: admin/partials/ptl-settings.php:754
+msgid "Loader Bubble"
+msgstr "Bulle du chargeur"
+
+#: admin/partials/shortcode-ptl.php:58 admin/partials/shortcode-cpt.php:38
+msgid "LoadMore Button"
+msgstr "Bouton Charger plus"
+
+#: admin/partials/shortcode-ptl.php:59 admin/partials/shortcode-cpt.php:39
+msgid "LoadMore on Scroll"
+msgstr "Charger plus sur le défilement"
+
+#: admin/partials/ptl-settings.php:200
+msgid "Mar"
+msgstr "Mar"
+
+#: admin/partials/ptl-settings.php:202
+msgid "Mar 10, 2001"
+msgstr "10 mars 2001"
+
+#: admin/partials/ptl-settings.php:203
+msgid "March 10, 2001"
+msgstr "10 mars 2001"
+
+#: admin/partials/admin-fields.php:58
+msgid "Media Type"
+msgstr "Type de support"
+
+#: admin/partials/multiple-templates-pro.php:58
+msgid "My Timelines"
+msgstr "Mes chronologies"
+
+#: includes/vendors/elementor/widget.php:410
+msgid "Nav max"
+msgstr "Nav max"
+
+#: includes/vendors/elementor/widget.php:421
+msgid "Nav Offset"
+msgstr "Décalage de navigation"
+
+#: admin/partials/ptl-settings.php:24 admin/partials/ptl-settings.php:483
+msgid "Navigation"
+msgstr "La navigation"
+
+#: admin/partials/ptl-settings.php:554
+msgid "Navigation Color"
+msgstr "Couleur de navigation"
+
+#: admin/partials/ptl-settings.php:490
+msgid "Navigation Enabled"
+msgstr "Navigation activée"
+
+#: admin/partials/shortcode-popup-html.php:65
+msgid "Navigation Limit"
+msgstr "Limite de navigation"
+
+#: includes/vendors/elementor/widget.php:411
+msgid "Navigation maximum number (example: 5)"
+msgstr "Nombre maximum de navigation (exemple : 5)"
+
+#: admin/partials/shortcode-popup-html.php:194
+msgid "Navigation Offset"
+msgstr "Décalage de navigation"
+
+#: includes/vendors/elementor/widget.php:422
+msgid "Navigation offset (example: 70)"
+msgstr "Décalage de navigation (exemple : 70)"
+
+#: admin/partials/multiple-templates-pro.php:152
+msgid "Navigation Style"
+msgstr "Style de navigation"
+
+#: admin/partials/ptl-settings.php:510
+msgid "Navigation Type"
+msgstr "Type de navigation"
+
+#: includes/admin/manager.php:226
+msgid "New Tag"
+msgstr "Nouvelle étiquette"
+
+#: includes/admin/manager.php:173
+msgid "New Timeline Post"
+msgstr "Nouvelle publication sur la chronologie"
+
+#: includes/admin/manager.php:233
+msgid "No Tag found in Trash."
+msgstr "Aucun tag trouvé dans la corbeille."
+
+#: includes/admin/manager.php:232
+msgid "No Tag found."
+msgstr "Aucune étiquette trouvée."
+
+#: includes/admin/manager.php:180
+msgid "No timelines found in Trash."
+msgstr "Aucun échéancier trouvé dans la corbeille."
+
+#: includes/admin/manager.php:179
+msgid "No timelines found."
+msgstr "Aucun échéancier trouvé."
+
+#: admin/partials/ptl-settings.php:585
+msgid "Numberic Value (Example: 10)"
+msgstr "Valeur numérique (Exemple : 10)"
+
+#: admin/partials/ptl-settings.php:235
+msgid "Numberic Value (Example: 24)"
+msgstr "Valeur numérique (Exemple : 24)"
+
+#: includes/vendors/elementor/widget.php:328
+#: includes/vendors/elementor/widget.php:498
+#: includes/vendors/elementor/widget.php:511
+msgid "Off"
+msgstr "À l'arrêt"
+
+#: includes/vendors/elementor/widget.php:327
+#: includes/vendors/elementor/widget.php:497
+#: includes/vendors/elementor/widget.php:510
+msgid "On"
+msgstr "Sur"
+
+#: admin/partials/shortcode-popup-html.php:40
+msgid "One Side"
+msgstr "Un côté"
+
+#: includes/vendors/elementor/widget.php:353
+msgid "One Side Layout"
+msgstr "Disposition d'un côté"
+
+#: admin/partials/multiple-templates-pro.php:143
+msgid "One-Sided Timeline"
+msgstr "Chronologie unilatérale"
+
+#: includes/admin/feedback.php:139
+msgid "Other"
+msgstr "Autre"
+
+#: admin/partials/admin-fields.php:25
+msgid "Page URL"
+msgstr "L'URL de la page"
+
+#: includes/admin/manager.php:234
+msgid "Parent Tag"
+msgstr "Balise parente"
+
+#: includes/admin/manager.php:231
+msgid "Parent Tag:"
+msgstr "Balise mère :"
+
+#: includes/admin/manager.php:181
+msgid "Parent Timeline"
+msgstr "Chronologie des parents"
+
+#: includes/admin/manager.php:178
+msgid "Parent Timelines:"
+msgstr "Chronologie des parents :"
+
+#: admin/partials/multiple-templates-pro.php:170
+msgid "Personalize Timeline post"
+msgstr "Personnaliser la publication de la chronologie"
+
+#: admin/partials/shortcode-popup-html.php:106
+msgid "Pick an animation type for timeline transitions."
+msgstr "Choisissez un type d'animation pour les transitions chronologiques."
+
+#: admin/partials/shortcode-popup-html.php:222
+msgid "Pick line styles among solid, dotted, and dashed"
+msgstr "Choisissez des styles de ligne parmi pleins, pointillés et pointillés"
+
+#: includes/admin/feedback.php:140
+msgid "Please share the reason"
+msgstr "Merci de partager la raison"
+
+#: includes/admin/feedback.php:127
+msgid "Please share which plugin"
+msgstr "Veuillez partager quel plugin"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Plugin"
+msgstr "Brancher"
+
+#: admin/partials/ptl-settings.php:260
+msgid "Popup Slider"
+msgstr "Curseur contextuel"
+
+#: admin/partials/ptl-settings.php:465
+msgid "Post Background"
+msgstr "Contexte de la publication"
+
+#: admin/partials/admin-fields.php:139
+#: admin/partials/shortcode-popup-html.php:132
+#: includes/vendors/elementor/widget.php:473
+msgid "Post Background Color"
+msgstr "Couleur d'arrière-plan de la publication"
+
+#: admin/partials/ptl-settings.php:405
+msgid "Post Border Radius"
+msgstr "Rayon de bordure de poteau"
+
+#: admin/partials/ptl-settings.php:232
+msgid "Post Content Length"
+msgstr "Longueur du contenu de la publication"
+
+#: admin/partials/ptl-settings.php:194 admin/partials/admin-fields.php:15
+msgid "Post Date"
+msgstr "Date de publication"
+
+#: admin/partials/ptl-settings.php:58 admin/partials/ptl-settings.php:116
+#: admin/partials/admin-fields.php:98
+msgid "Post Icon"
+msgstr "Icône de publication"
+
+#: includes/components/like.php:85
+msgid "Post Liked"
+msgstr "Message aimé"
+
+#: admin/partials/ptl-settings.php:217
+msgid "Post Link Type"
+msgstr "Type de lien de publication"
+
+#: includes/admin/manager.php:766
+msgid "Post name"
+msgstr "Après le nom"
+
+#: admin/partials/shortcode-popup-html.php:245
+#: includes/vendors/elementor/widget.php:483
+msgid "Post Navigation Color"
+msgstr "Couleur de navigation des messages"
+
+#: admin/partials/admin-fields.php:34
+msgid "Post Order (Number Only)"
+msgstr "Commande postale (numéro uniquement)"
+
+#: admin/partials/ptl-settings.php:582
+msgid "Post Per Page"
+msgstr "Publication par page"
+
+#: includes/vendors/elementor/widget.php:177
+msgid "Post Story Timeline Settings"
+msgstr "Paramètres de la chronologie de l'article"
+
+#. Name of the plugin
+#: includes/vendors/elementor/widget.php:50
+msgid "Post Timeline"
+msgstr "Chronologie des publications"
+
+#: admin/partials/multiple-templates-pro.php:106
+msgid "Post Timeline Features"
+msgstr "Fonctionnalités post-chronologique"
+
+#. Description of the plugin
+msgid ""
+"Post Timeline Pro is the Premium WordPress Timeline Plugin, through which "
+"users can create unlimited beautiful Vertical, horizontal and Both Side "
+"timelines."
+msgstr ""
+"Post Timeline Pro est le plugin de chronologie WordPress Premium, grâce "
+"auquel les utilisateurs peuvent créer un nombre illimité de magnifiques "
+"chronologies verticales, horizontales et bilatérales."
+
+#: includes/admin/manager.php:167
+msgctxt "post type general name"
+msgid "Post Timelines"
+msgstr "Calendrier des publications"
+
+#: includes/admin/manager.php:168
+msgctxt "post type singular name"
+msgid "Post Timeline"
+msgstr "Chronologie des publications"
+
+#: admin/partials/admin-fields.php:134
+#: admin/partials/shortcode-popup-html.php:23
+msgid "Post UI"
+msgstr "Post-interface utilisateur"
+
+#: admin/partials/shortcode-popup-html.php:287
+msgid "Post-Timeline"
+msgstr "Post-chronologie"
+
+#: admin/partials/ptl-settings.php:244
+msgid "post-timeline-slug"
+msgstr "post-timeline-slug"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Premium"
+msgstr "Prime"
+
+#: admin/partials/admin-fields.php:88
+msgid "Provide the video link for the Iframe."
+msgstr "Fournissez le lien vidéo pour l'Iframe."
+
+#: admin/blocks/index.php:18
+msgid "PTL Blocks"
+msgstr "Blocs PTL"
+
+#: includes/layouts/layout-2.php:158 includes/layouts/layout-5.php:152
+#: includes/layouts/layout-1.php:147 includes/layouts/layout-0.php:139
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: admin/partials/ptl-settings.php:222
+msgid "Read More button"
+msgstr "Bouton En savoir plus"
+
+#: admin/partials/multiple-templates-pro.php:78
+msgid "Right Side Timeline"
+msgstr "Chronologie du côté droit"
+
+#: admin/partials/ptl-settings.php:663
+#: admin/partials/shortcode-popup-html.php:89
+msgid "RotateIn"
+msgstr "RotationDans"
+
+#: admin/partials/ptl-settings.php:208
+msgid "Sat Mar 10 17:16:18"
+msgstr "sam. 10 mars 17:16:18"
+
+#: includes/admin/manager.php:230
+msgid "Search Tag"
+msgstr "Balise de recherche"
+
+#: includes/admin/manager.php:177
+msgid "Search Timelines"
+msgstr "Délais de recherche"
+
+#: admin/partials/shortcode-popup-html.php:252
+msgid "Select a color for navigating through the timeline."
+msgstr "Sélectionnez une couleur pour naviguer dans la chronologie."
+
+#: admin/partials/shortcode-popup-html.php:236
+msgid "Select a color for Tagline through the timeline."
+msgstr "Sélectionnez une couleur pour le slogan dans la chronologie."
+
+#: admin/partials/ptl-settings.php:400
+msgid "Select a skin “tone” for the timeline."
+msgstr "Sélectionnez un \"ton de peau\" pour la chronologie."
+
+#: admin/partials/ptl-settings.php:149
+msgid "Select a source from where to add an icon"
+msgstr "Sélectionnez une source à partir de laquelle ajouter une icône"
+
+#: admin/partials/ptl-settings.php:681
+msgid "Select a style of animation for the timeline"
+msgstr "Sélectionnez un style d'animation pour la chronologie"
+
+#: admin/partials/ptl-settings.php:547
+msgid "Select a timeline navigation style"
+msgstr "Sélectionnez un style de navigation dans la chronologie"
+
+#: admin/partials/shortcode-popup-html.php:61
+msgid "Select a timeline template."
+msgstr "Sélectionnez un modèle de chronologie."
+
+#: admin/partials/shortcode-popup-html.php:72
+#: includes/vendors/elementor/widget.php:436
+msgid "Select Animation"
+msgstr "Sélectionner Animation"
+
+#: admin/partials/shortcode-ptl.php:4 admin/partials/shortcode-cpt.php:19
+msgid "Select Category"
+msgstr "Choisir une catégorie"
+
+#: admin/partials/shortcode-ptl.php:35 admin/partials/shortcode-cpt.php:70
+#: includes/vendors/elementor/widget.php:249
+msgid "Select Description Type"
+msgstr "Sélectionnez le type de description"
+
+#: admin/partials/ptl-settings.php:343
+msgid "Select Font"
+msgstr "Sélectionnez la police"
+
+#: admin/partials/admin-fields.php:117
+msgid "Select Font Awesome Icon"
+msgstr "Sélectionnez l'icône Font Awesome"
+
+#: admin/partials/ptl-settings.php:692
+msgid "Select how fast or slow the animation “moves”"
+msgstr "Sélectionnez la vitesse ou la lenteur de l'animation \"se déplace\""
+
+#: admin/partials/ptl-settings.php:227
+msgid "Select how links are utilized on your timeline"
+msgstr ""
+"Sélectionnez la façon dont les liens sont utilisés sur votre chronologie"
+
+#: admin/partials/ptl-settings.php:280
+msgid "Select how more posts will be loaded on the timeline"
+msgstr ""
+"Sélectionnez comment plus de publications seront chargées sur la chronologie"
+
+#: admin/partials/shortcode-ptl.php:63 admin/partials/shortcode-cpt.php:43
+msgid "Select how upcoming posts will be loaded"
+msgstr "Sélectionnez la façon dont les publications à venir seront chargées"
+
+#: admin/partials/shortcode-popup-html.php:213
+msgid "Select Line Style"
+msgstr "Sélectionnez le style de ligne"
+
+#: admin/partials/ptl-settings.php:746
+msgid "Select Loader"
+msgstr "Sélectionnez le chargeur"
+
+#: admin/partials/shortcode-popup-html.php:178
+#: includes/vendors/elementor/widget.php:393
+msgid "Select Navigation Type"
+msgstr "Sélectionnez le type de navigation"
+
+#: admin/partials/ptl-settings.php:269
+msgid "Select Pagination"
+msgstr "Sélectionnez la pagination"
+
+#: includes/vendors/elementor/widget.php:149
+msgid "Select Post Type"
+msgstr "Sélectionnez le type de publication"
+
+#: admin/partials/shortcode-cpt.php:4 includes/vendors/elementor/widget.php:219
+msgid "Select Post types"
+msgstr "Sélectionnez les types de publication"
+
+#: admin/partials/shortcode-popup-html.php:166
+msgid "Select Skin Type"
+msgstr "Sélectionnez le type de peau"
+
+#: admin/partials/ptl-settings.php:254
+msgid "Select Slide Type"
+msgstr "Sélectionnez le type de diapositive"
+
+#: admin/partials/shortcode-popup-html.php:284
+msgid "Select Source"
+msgstr "Sélectionner la source"
+
+#: admin/partials/shortcode-popup-html.php:110
+msgid "Select Tag Type"
+msgstr "Sélectionnez le type de balise"
+
+#: admin/partials/shortcode-cpt.php:52 admin/partials/shortcode-cpt.php:55
+msgid "Select Taxonomy"
+msgstr "Sélectionnez la taxonomie"
+
+#: admin/partials/ptl-settings.php:717
+msgid "Select the animation easing of vertical timeline"
+msgstr "Sélectionnez l'animation d'assouplissement de la chronologie verticale"
+
+#: admin/partials/ptl-settings.php:366
+msgid "Select the content area font size of the timeline."
+msgstr ""
+"Sélectionnez la taille de police de la zone de contenu de la chronologie."
+
+#: admin/partials/admin-fields.php:22
+msgid "Select the Month/Date/Year of Timeline"
+msgstr "Sélectionnez le mois/la date/l'année de la chronologie"
+
+#: admin/partials/ptl-settings.php:433
+msgid "Select the style of the main “backbone” line."
+msgstr "Sélectionnez le style de la ligne principale \"backbone\"."
+
+#: admin/partials/shortcode-popup-html.php:48
+msgid "Select Timeline Model"
+msgstr "Sélectionnez le modèle de chronologie"
+
+#: admin/partials/shortcode-popup-html.php:35
+msgid "Select Timeline Orientation"
+msgstr "Sélectionnez l'orientation de la chronologie"
+
+#: includes/vendors/elementor/widget.php:194
+msgid "Select types"
+msgstr "Sélectionnez les types"
+
+#: admin/partials/shortcode-ptl.php:22 admin/partials/shortcode-cpt.php:30
+msgid "Select which IDs to include"
+msgstr "Sélectionnez les identifiants à inclure"
+
+#: admin/partials/shortcode-popup-html.php:68
+#: admin/partials/shortcode-popup-html.php:125
+msgid "Set your tag-based Navigation Limit"
+msgstr "Définissez votre limite de navigation basée sur des balises"
+
+#: includes/admin/manager.php:618
+msgid "Setting has been Updated Successfully."
+msgstr "Le paramètre a été mis à jour avec succès."
+
+#: admin/partials/shortcode-popup-html.php:20 includes/admin/feedback.php:205
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/partials/multiple-templates-pro.php:10
+msgid ""
+"Show Your Cool Stories To the World With Interactive &   Top-Rated Timelines."
+msgstr ""
+"Montrez vos histoires cool au monde avec des chronologies interactives et "
+"les mieux notées."
+
+#: admin/partials/ptl-settings.php:379
+msgid "Skin Type"
+msgstr "Type de peau"
+
+#: admin/partials/ptl-settings.php:664
+#: admin/partials/shortcode-popup-html.php:90
+#: includes/vendors/elementor/widget.php:440
+msgid "Slide Up"
+msgstr "Glisser vers le haut"
+
+#: admin/partials/ptl-settings.php:241
+msgid "Slug"
+msgstr "Limace"
+
+#: admin/partials/ptl-settings.php:289
+msgid "Social Share Links Settings"
+msgstr "Paramètres des liens de partage social"
+
+#: admin/partials/ptl-settings.php:428
+#: admin/partials/shortcode-popup-html.php:216
+msgid "Solid"
+msgstr "Solide"
+
+#: admin/partials/ptl-settings.php:180
+#: admin/partials/shortcode-popup-html.php:201
+#: includes/vendors/elementor/widget.php:458
+msgid "Sorting Order"
+msgstr "Ordre de tri"
+
+#: admin/partials/ptl-settings.php:688
+msgid "Speed"
+msgstr "La rapidité"
+
+#: admin/partials/ptl-settings.php:752
+msgid "Spinner"
+msgstr "Fileur"
+
+#: admin/partials/ptl-settings.php:753
+msgid "Spinner Bubble"
+msgstr "Bulle tournante"
+
+#: admin/partials/ptl-settings.php:751
+msgid "Spinner Glow"
+msgstr "Lueur de la roulette"
+
+#: admin/partials/ptl-settings.php:375
+msgid "Style"
+msgstr "Style"
+
+#: includes/vendors/elementor/widget.php:397
+msgid "Style 0"
+msgstr "Style 0"
+
+#: includes/vendors/elementor/widget.php:398
+msgid "Style 1"
+msgstr "Modèle 1"
+
+#: includes/vendors/elementor/widget.php:399
+msgid "Style 2"
+msgstr "Modèle 2"
+
+#: includes/vendors/elementor/widget.php:400
+msgid "Style 3"
+msgstr "Style 3"
+
+#: admin/partials/ptl-settings.php:17
+msgid "Styles"
+msgstr "modes"
+
+#: includes/admin/feedback.php:184
+msgid "Submit & Deactivate"
+msgstr "Soumettre et désactiver"
+
+#: admin/partials/ptl-settings.php:163
+#: admin/partials/shortcode-popup-html.php:114
+msgid "Tag Based"
+msgstr "Basé sur les balises"
+
+#: admin/partials/multiple-templates-pro.php:38
+msgid "Tag Based & Datebased Post Creation."
+msgstr "Création de messages basés sur des balises et des dates."
+
+#: admin/partials/admin-fields.php:41
+msgid "Tag Line"
+msgstr "Slogan"
+
+#: admin/partials/ptl-settings.php:568
+msgid "Tag Line Color"
+msgstr "Couleur de la ligne d'étiquette"
+
+#: includes/vendors/elementor/widget.php:381
+msgid "Template 0"
+msgstr "Modèle 0"
+
+#: includes/vendors/elementor/widget.php:382
+msgid "Template 1"
+msgstr "Modèle 1"
+
+#: includes/vendors/elementor/widget.php:383
+msgid "Template 2"
+msgstr "Modèle 2"
+
+#: includes/vendors/elementor/widget.php:384
+msgid "Template 3"
+msgstr "Modèle 3"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Timeline"
+msgstr "Chronologie"
+
+#: includes/admin/manager.php:224
+msgctxt "timeline"
+msgid "Add New Tag"
+msgstr "Ajouter une nouvelle balise"
+
+#: includes/vendors/elementor/widget.php:234
+msgid "Timeline Categories"
+msgstr "Catégories de chronologie"
+
+#: admin/partials/multiple-templates-pro.php:46
+msgid "Timeline Customizations"
+msgstr "Personnalisations de la chronologie"
+
+#: includes/vendors/elementor/widget.php:347
+msgid "Timeline Layout"
+msgstr "Disposition de la chronologie"
+
+#: includes/admin/manager.php:171
+msgctxt "Timeline Post"
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#: includes/vendors/elementor/widget.php:363
+msgid "Timeline Skin"
+msgstr "Peau de chronologie"
+
+#: includes/vendors/elementor/widget.php:377
+msgid "Timeline Template Design"
+msgstr "Conception de modèle de chronologie"
+
+#: admin/partials/ptl-settings.php:154
+msgid "Timeline Type"
+msgstr "Type de chronologie"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Timelines with Post"
+msgstr "Chronologies avec publication"
+
+#: admin/partials/ptl-settings.php:223
+msgid "Title link"
+msgstr "Lien du titre"
+
+#: admin/partials/multiple-templates-pro.php:218
+msgid ""
+"To add your specific timeline posts, you'll need to add a shortcode on your "
+"page and use it based on your timeline goals."
+msgstr ""
+"Pour ajouter vos messages de chronologie spécifiques, vous devrez ajouter un "
+"shortcode sur votre page et l'utiliser en fonction de vos objectifs de "
+"chronologie."
+
+#: admin/partials/ptl-settings.php:142
+msgid "Upload Custom Icon"
+msgstr "Télécharger une icône personnalisée"
+
+#: admin/partials/ptl-settings.php:129 admin/partials/admin-fields.php:109
+msgid "Upload Icon"
+msgstr "Icône de téléchargement"
+
+#: admin/partials/multiple-templates-pro.php:117
+msgid ""
+"Use Post timeline to create standard vertical timelines that display your "
+"posts."
+msgstr ""
+"Utilisez la chronologie des publications pour créer des chronologies "
+"verticales standard qui affichent vos publications."
+
+#: admin/partials/multiple-templates-pro.php:144
+msgid "Use this option to create a single-sided timeline"
+msgstr "Utilisez cette option pour créer une chronologie unilatérale"
+
+#: admin/partials/ptl-settings.php:86
+msgid "Use this option to hide/display post images"
+msgstr "Utilisez cette option pour masquer/afficher les images de publication"
+
+#: admin/partials/shortcode-popup-html.php:38
+msgid "Vertical"
+msgstr "Vertical"
+
+#: includes/vendors/elementor/widget.php:351
+msgid "Vertical Layout"
+msgstr "Disposition verticale"
+
+#: admin/partials/multiple-templates-pro.php:68
+#: admin/partials/multiple-templates-pro.php:116
+msgid "Vertical Timeline"
+msgstr "Chronologie verticale"
+
+#: admin/partials/admin-fields.php:72
+msgid "Video URL"
+msgstr "URL de la vidéo"
+
+#: admin/partials/multiple-templates-pro.php:248
+msgid "View Our Tutorials"
+msgstr "Voir nos tutoriels"
+
+#: includes/admin/manager.php:228
+msgid "View Tag"
+msgstr "Afficher la balise"
+
+#: includes/admin/manager.php:175
+msgid "View Timeline Post"
+msgstr "Afficher la publication de la chronologie"
+
+#: admin/partials/multiple-templates-pro.php:239
+msgid "Want to Enhance Your Timeline Like a PRO?"
+msgstr "Vous voulez améliorer votre chronologie comme un PRO ?"
+
+#: admin/partials/multiple-templates-pro.php:171
+msgid ""
+"With Post timeline, you can easily personalize your timeline and settings."
+msgstr ""
+"Avec la chronologie des publications, vous pouvez facilement personnaliser "
+"votre chronologie et vos paramètres."
+
+#: includes/components/like.php:88
+msgid "You already have liked this post"
+msgstr "Vous avez déjà aimé ce post"
+
+#: admin/partials/multiple-templates-pro.php:162
+msgid ""
+"You can set the \"tone\" for your timeline by choosing either a light or "
+"dark skin"
+msgstr ""
+"Vous pouvez définir le \"ton\" de votre chronologie en choisissant une peau "
+"claire ou foncée"
+
+#: admin/partials/ptl-settings.php:667
+#: admin/partials/shortcode-popup-html.php:93
+msgid "ZoomIn Left/Right"
+msgstr "Zoom avant gauche/droite"
+
+#: admin/partials/ptl-settings.php:666
+#: admin/partials/shortcode-popup-html.php:92
+#: includes/vendors/elementor/widget.php:444
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+#: admin/partials/ptl-settings.php:665
+#: admin/partials/shortcode-popup-html.php:91
+#: includes/vendors/elementor/widget.php:443
+msgid "ZoomInUp"
+msgstr "ZoomInHaut"
+
+#: admin/partials/ptl-settings.php:668
+#: admin/partials/shortcode-popup-html.php:94
+msgid "ZoomOut Left/Right"
+msgstr "Zoom arrière gauche/droite"

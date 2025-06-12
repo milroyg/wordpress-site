@@ -1,0 +1,95 @@
+# Copyright (C) 2025 bPlugins
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: B Timeline 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/b-timeline\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-05-08T08:54:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: b-timeline\n"
+
+#. Plugin Name of the plugin
+#: b-titmeline.php
+msgid "B Timeline"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: b-titmeline.php
+msgid "https://bplugins.com/"
+msgstr ""
+
+#. Description of the plugin
+#: b-titmeline.php
+msgid "Easily display interactive Data Timeline."
+msgstr ""
+
+#. Author of the plugin
+#: b-titmeline.php
+msgid "bPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+#: b-titmeline.php
+msgid "http://bplugins.com"
+msgstr ""
+
+#: inc/BTimeline_Admin.php:21
+#: inc/BTimeline_Admin.php:22
+#: inc/BTimeline_Admin.php:23
+#: inc/BTimeline_Admin.php:92
+msgid "B-Timeline"
+msgstr ""
+
+#: inc/BTimeline_Admin.php:24
+msgid "Add New"
+msgstr ""
+
+#: inc/BTimeline_Admin.php:25
+msgid "Add New "
+msgstr ""
+
+#: inc/BTimeline_Admin.php:26
+msgid "New Timeline "
+msgstr ""
+
+#: inc/BTimeline_Admin.php:27
+msgid "Edit Timeline "
+msgstr ""
+
+#: inc/BTimeline_Admin.php:28
+msgid "View Timeline "
+msgstr ""
+
+#: inc/BTimeline_Admin.php:29
+msgid "All Timeline"
+msgstr ""
+
+#: inc/BTimeline_Admin.php:34
+msgid "B Timeline Options."
+msgstr ""
+
+#: inc/BTimeline_Admin.php:99
+msgid "Copy and paste this shortcode into your posts, pages and widget:"
+msgstr ""
+
+#: inc/BTimeline_Admin.php:104
+msgid "Copy and paste the PHP code into your template file:"
+msgstr ""
+
+#: inc/class-btimeline.php:65
+msgid "If you like <strong> B-Timeline </strong> please leave us a <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. Your Review is very important to us as it helps us to grow more. "
+msgstr ""
+
+#: inc/class-btimeline.php:245
+msgid "Dashboard"
+msgstr ""
+
+#: inc/class-btimeline.php:246
+msgid "Demo & Help"
+msgstr ""

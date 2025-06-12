@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Timeline\n"
+"POT-Creation-Date: 2017-11-15 16:15+0500\n"
+"PO-Revision-Date: 2022-09-13 10:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: post-timeline.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/manager.php:170
+msgctxt "add new on admin bar"
+msgid "Post Timeline"
+msgstr ""
+
+#: includes/admin/manager.php:225
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/admin/manager.php:172
+msgid "Add New Timeline Post"
+msgstr ""
+
+#: includes/admin/manager.php:169
+msgctxt "admin menu"
+msgid "Post Timelines"
+msgstr ""
+
+#. Author of the plugin
+msgid "AgileLogix"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:324
+msgid "Ajax Loader"
+msgstr ""
+
+#: includes/admin/manager.php:229
+msgid "All Tags"
+msgstr ""
+
+#: includes/admin/manager.php:176
+msgid "All Timeline Post"
+msgstr ""
+
+#: includes/admin/manager.php:605
+msgid "animation speed max: '2' and min: '0.1'"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:462
+msgid "Ascending"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:445
+msgid "BounceIn"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:446
+msgid "BounceInUp"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:276
+msgid "Category IDs"
+msgstr ""
+
+#: includes/admin/manager.php:595
+msgid "Content font size should'nt be in negative."
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:367
+msgid "Dark"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:463
+msgid "Descending"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:313
+msgid "Display per page"
+msgstr ""
+
+#: includes/admin/manager.php:227
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/admin/manager.php:174
+msgid "Edit Timeline Post"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:263
+msgid "Enter Taxanomy"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:278
+#: includes/vendors/elementor/widget.php:294
+msgid "example: 10,13,2,4"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:304
+msgid "example: 11,12,5,7"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:253
+msgid "Excerpt"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:302
+msgid "Exclude IDs"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:292
+msgid "Filter By IDs"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:442
+msgid "Flip X"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:441
+msgid "Flip Y"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:254
+msgid "Full Text"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:352
+msgid "Horizontal Layout"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://posttimeline.com/"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:507
+msgid "Include HTML"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:368
+msgid "Light"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:494
+msgid "Link open in new tab"
+msgstr ""
+
+#: includes/layouts/base.php:709
+msgid "Load More"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:410
+msgid "Nav max"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:421
+msgid "Nav Offset"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:411
+msgid "Navigation maximum number (example: 5)"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:422
+msgid "Navigation offset (example: 70)"
+msgstr ""
+
+#: includes/admin/manager.php:226
+msgid "New Tag"
+msgstr ""
+
+#: includes/admin/manager.php:173
+msgid "New Timeline Post"
+msgstr ""
+
+#: includes/admin/manager.php:233
+msgid "No Tag found in Trash."
+msgstr ""
+
+#: includes/admin/manager.php:232
+msgid "No Tag found."
+msgstr ""
+
+#: includes/admin/manager.php:180
+msgid "No timelines found in Trash."
+msgstr ""
+
+#: includes/admin/manager.php:179
+msgid "No timelines found."
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:328
+#: includes/vendors/elementor/widget.php:498
+#: includes/vendors/elementor/widget.php:511
+msgid "Off"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:327
+#: includes/vendors/elementor/widget.php:497
+#: includes/vendors/elementor/widget.php:510
+msgid "On"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:353
+msgid "One Side Layout"
+msgstr ""
+
+#: includes/admin/manager.php:234
+msgid "Parent Tag"
+msgstr ""
+
+#: includes/admin/manager.php:231
+msgid "Parent Tag:"
+msgstr ""
+
+#: includes/admin/manager.php:181
+msgid "Parent Timeline"
+msgstr ""
+
+#: includes/admin/manager.php:178
+msgid "Parent Timelines:"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:473
+msgid "Post Background Color"
+msgstr ""
+
+#: includes/components/like.php:85
+msgid "Post Liked"
+msgstr ""
+
+#: includes/admin/manager.php:766
+msgid "Post name"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:483
+msgid "Post Navigation Color"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:177
+msgid "Post Story Timeline Settings"
+msgstr ""
+
+#. Name of the plugin
+#: includes/vendors/elementor/widget.php:50
+msgid "Post Timeline"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Post Timeline Pro is the Premium WordPress Timeline Plugin, through which "
+"users can create unlimited beautiful Vertical, horizontal and Both Side "
+"timelines."
+msgstr ""
+
+#: includes/admin/manager.php:167
+msgctxt "post type general name"
+msgid "Post Timelines"
+msgstr ""
+
+#: includes/admin/manager.php:168
+msgctxt "post type singular name"
+msgid "Post Timeline"
+msgstr ""
+
+#: includes/layouts/layout-2.php:158 includes/layouts/layout-5.php:152
+#: includes/layouts/layout-1.php:147 includes/layouts/layout-0.php:139
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/manager.php:230
+msgid "Search Tag"
+msgstr ""
+
+#: includes/admin/manager.php:177
+msgid "Search Timelines"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:436
+msgid "Select Animation"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:249
+msgid "Select Description Type"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:393
+msgid "Select Navigation Type"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:149
+msgid "Select Post Type"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:219
+msgid "Select Post types"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:194
+msgid "Select types"
+msgstr ""
+
+#: includes/admin/manager.php:618
+msgid "Setting has been Updated Successfully."
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:440
+msgid "Slide Up"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:458
+msgid "Sorting Order"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:397
+msgid "Style 0"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:398
+msgid "Style 1"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:399
+msgid "Style 2"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:400
+msgid "Style 3"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:381
+msgid "Template 0"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:382
+msgid "Template 1"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:383
+msgid "Template 2"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:384
+msgid "Template 3"
+msgstr ""
+
+#: includes/admin/manager.php:224
+msgctxt "timeline"
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:234
+msgid "Timeline Categories"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:347
+msgid "Timeline Layout"
+msgstr ""
+
+#: includes/admin/manager.php:171
+msgctxt "Timeline Post"
+msgid "Add New"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:363
+msgid "Timeline Skin"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:377
+msgid "Timeline Template Design"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:351
+msgid "Vertical Layout"
+msgstr ""
+
+#: includes/admin/manager.php:228
+msgid "View Tag"
+msgstr ""
+
+#: includes/admin/manager.php:175
+msgid "View Timeline Post"
+msgstr ""
+
+#: includes/components/like.php:88
+msgid "You already have liked this post"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:444
+msgid "ZoomInDown"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:443
+msgid "ZoomInUp"
+msgstr ""

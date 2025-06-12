@@ -1,0 +1,86 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "wpostahs/th-slider",
+  "version": "2.3",
+  "title": "Timeline Slider",
+  "category": "essp_guten_block",
+  "icon": "feedback",
+  "description": "Display timeline in a slider view with various layouts.",
+  "example": {},
+  "supports": {
+    "html": false,
+    "align": true,
+    "multiple": true
+  },
+  "textdomain": "timeline-and-history-slider",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "keywords": [
+    "wpos",
+    "timeline slider",
+    "th-slider"
+  ],
+  "attributes": {
+    "design": {
+      "type": "string",
+      "default": "design-1"
+    },
+    "slidestoshow": {
+      "type": "number",
+      "default": 3
+    },
+    "dots": {
+      "type": "string",
+      "default": "true"
+    },
+    "arrows": {
+      "type": "string",
+      "default": "true"
+    },
+    "autoplay": {
+      "type": "string",
+      "default": "true"
+    },
+    "autoplay_interval": {
+      "type": "number",
+      "default": 3000
+    },
+    "speed": {
+      "type": "number",
+      "default": 300
+    },
+    "fade": {
+      "type": "string",
+      "default": "false"
+    },
+    "loop": {
+      "type": "string",
+      "default": "true"
+    },
+    "centermode": {
+      "type": "string",
+      "default": "false"
+    },
+    "limit": {
+      "type": "number",
+      "default": 20
+    },
+    "category": {
+      "type": "string",
+      "default": ""
+    },
+    "lazyload": {
+      "type": "string",
+      "default": ""
+    },
+    "align": {
+      "type": "string",
+      "default": ""
+    },
+    "className": {
+      "type": "string",
+      "default": ""
+    }
+  }
+}

@@ -1,0 +1,933 @@
+# Copyright (C) 2024 WP OnlineSupport, Essential Plugin
+# This file is distributed under the same license as the Timeline and History Slider plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Timeline and History Slider 2.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/timeline-and-history-slider\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-11T09:57:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: timeline-and-history-slider\n"
+
+#. Plugin Name of the plugin
+#: C:\laragon\www\testingserver\wp-content\plugins\timeline-and-history-slider\timeline-and-history-slider.php
+msgid "Timeline and History Slider"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: C:\laragon\www\testingserver\wp-content\plugins\timeline-and-history-slider\timeline-and-history-slider.php
+msgid "https://www.essentialplugin.com/wordpress-plugin/timeline-history-slider/"
+msgstr ""
+
+#. Description of the plugin
+#: C:\laragon\www\testingserver\wp-content\plugins\timeline-and-history-slider\timeline-and-history-slider.php
+msgid "Timeline Plugin for WordPress. Easy to add and display history OR timeline for your WordPress website. Also support WordPress POST post type. Also work with Gutenberg shortcode block."
+msgstr ""
+
+#. Author of the plugin
+#: C:\laragon\www\testingserver\wp-content\plugins\timeline-and-history-slider\timeline-and-history-slider.php
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:42
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:42
+#: includes/admin/wpostahs-how-it-work.php:26
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:45
+msgid "Upgrade To Premium -  Timeline and History slider"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:45
+msgid "Upgrade To Premium"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:73
+msgid "Timeline - Settings"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:75
+msgid "More Premium - Settings"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:126
+msgid "Timeline Shortcode"
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:14
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:13
+msgid "Utilize this "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:14
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:13
+msgid "Premium Features (With Risk-Free 30 days money back guarantee)"
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:14
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:13
+msgid "to get best of this plugin with Annual or Lifetime bundle deal."
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:21
+msgid "Timeline Custom Icon "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:21
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:33
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:44
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:20
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:28
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:37
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:46
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:55
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:63
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:71
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:79
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:87
+msgid "PRO"
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:26
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:26
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:27
+msgid "Upload custom icon that you want to show for your timeline instead of fa icon."
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:33
+msgid "Timeline Fa Icon "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:38
+msgid "For example :"
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:44
+msgid "Read More Link "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:49
+msgid "Enter read more link. You can add external link also. Leave empty to use default post link. ie "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:20
+msgid "Layouts "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:23
+msgid "2 (Verical And Horizontal). In lite version only 1 layout."
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:28
+msgid "Designs "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:31
+msgid "12+. In lite version only one design."
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:37
+msgid "Separate Field for Custom icon "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:40
+msgid "Seprate field availabe if you want to add custom icon."
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:46
+msgid "Show/hide post link "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:49
+msgid "Option Show/hide post link."
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:55
+msgid "WP Templating Features "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:58
+msgid "You can modify plugin html/designs in your current theme."
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:63
+msgid "Shortcode Generator "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:66
+msgid "Play with all shortcode parameters with preview panel. No documentation required."
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:71
+msgid "Drag & Drop Slide Order Change "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:74
+msgid "Arrange your desired slides with your desired order and display."
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:79
+msgid "Page Builder Support "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:82
+msgid "Gutenberg Block, Elementor, Bevear Builder, SiteOrigin, Divi, Visual Composer and Fusion Page Builder Support"
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:87
+msgid "Exclude Timeline and Exclude Some Categories "
+msgstr ""
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:90
+msgid "Do not display the timeline & Do not display the timeline for particular categories."
+msgstr ""
+
+#: includes/admin/supports/blocks/gutenberg-block.php:73
+msgid "Essential Plugin Blocks"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:37
+msgid "Need Support & Solutions?"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:45
+msgid "Boost design and best solution for your website."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:46
+#: includes/admin/wpostahs-how-it-work.php:180
+msgid "Grab Now"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:57
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:65
+msgid "Geeting Started with Timeline and History Slider"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:69
+msgid "Step-1. Go to \"Timeline Slider --> Add slide tab\"."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:70
+msgid "Step-2. Add Album title, description and featured image and Publish."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:71
+msgid "Step-3. Also you can display multiple timeline with category shortcode. Just go to \"Timeline Slider --> category\" and create the category. "
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:72
+msgid "Step-4. Asign the timeline post to respective category and use the category shortcode to display"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:79
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:83
+msgid "Step-1. Create a page like Timeline OR Post Timeline."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:84
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:91
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:94
+msgid "Timeline Slider Shortcode"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:100
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:103
+msgid "Check Documentation"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:114
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:122
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:126
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:127
+msgid "Step-2. Search \"Timeline Slider\" keyword in the gutenberg block list."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:128
+msgid "Step-3. Add any block of Timeline Slider and you will find its relative options on the right end side."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:140
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:144
+msgid "Enjoyed this plugin? You can help by rate this plugin "
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:144
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:156
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:160
+msgid "12+ cool designs"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:161
+msgid "Create unlimited timeline stories inside your WordPress website or blog."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:162
+msgid "Use via 2 Shortcodes and adding 12+ Designs"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:163
+msgid "Vertical and Horizontal Timeline"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:164
+msgid "Also work with WordPress POST"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:165
+msgid "Timeline Category Management – Add stories in specific category."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:166
+msgid "Timeline Stories Content Format – Add font awesome icon to display timeline stories format."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:167
+msgid "Timeline Scrolling Navigation – Quickly and easily navigate your timeline with a beautiful scrolling navigation inside your timeline."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:168
+msgid "Mobile Compatibility View"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:169
+msgid "Gutenberg Block Supports."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:170
+msgid "WPBakery Page Builder Supports"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:171
+msgid "Elementor, Beaver and SiteOrigin Page Builder Support."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:172
+msgid "Divi Page Builder Native Support."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:173
+msgid "Fusion Page Builder (Avada) native support."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:174
+msgid "WP Templating Features"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:175
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:176
+msgid "Fully responsive"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:177
+msgid "100% Multi language"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:179
+msgid "Gain access to "
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:179
+msgid "Timeline and History slider"
+msgstr ""
+
+#: includes/shortcode/wpostahs-slider-shortcode.php:23
+#: includes/shortcode/wpostahs-slider-shortcode.php:31
+msgid "Timeline Slider View - Shortcode"
+msgstr ""
+
+#: includes/wpostahs-functions.php:82
+msgid "Slider Design 1"
+msgstr ""
+
+#: includes/wpostahs-functions.php:83
+msgid "Slider Design 2"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:21
+#: includes/wpostahs-slider-custom-post.php:22
+msgid "Timeline Slider"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:23
+msgid "Add Slide"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:24
+msgid "Add New slide"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:25
+msgid "Edit"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:26
+msgid "New"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:27
+msgid "View"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:28
+msgid "Search"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:29
+msgid "NoItems found"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:30
+msgid "No Items found in Trash"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:67
+#: includes/wpostahs-slider-custom-post.php:68
+msgid "Category"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:69
+msgid "Search Category"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:70
+msgid "All Category"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:71
+#: includes/wpostahs-slider-custom-post.php:72
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:73
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:74
+msgid "Update Category"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:75
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:76
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:77
+msgid "Timeline Category"
+msgstr ""
+
+#: timeline-and-history-slider.php:168
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: timeline-and-history-slider.php:169
+msgid "It looks like you had PRO version %s of this plugin activated. To avoid conflicts the extra version has been deactivated and we recommend you delete it."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Select Lazyload"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Ondemand"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Progressive"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Post Date"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Post Slug"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Post ID"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Random"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Same Window"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "New Window"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "True"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "False"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "General Parameters"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Design"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Design 1"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Design 2"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Show Title"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Display Title. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Premium version"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "to get this option."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Show Date"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Display date. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Show Content"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Display content. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Show Full Content"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Display full content. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Content Words Limit"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter content word limit. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Content Tail"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Display dots after the post content as continue reading. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Show read more button. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Read More Text"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter read more button text. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Link"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enable post link to title, icon and feature image. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Choose link bahaviour. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Media Size"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Choose WordPress registered image size. e.g thumbnail, medium, large, full. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Design Parameters"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Image Position"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Left"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Set image position. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Font Color"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Slider Parameters"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Slide To Show"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter number for Slide to show at a time."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "First Slide"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter number of slide that you want to display first. Slider will initialize from that slide. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Dots"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Show pagination dots."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Arrows"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Show prev - next arrows."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Autoplay"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter autoplay interval speed."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Fade"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enable slider fade effect."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Loop"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enable slider loop."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Centermode"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enable slider center mode effect."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Adaptive Height"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enable slider auto height based on slide content. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Pause On Hover"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Pause slider autoplay on hover. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Pause On Focus"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Pause slider autoplay when slider element is focused. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Draggable"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Choose draggable slider for mouse effect. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Slider Lazyload"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Select option to use lazy loading in slider."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Query Parameters"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Post Type"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Select Post Type"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Select post type. Leave empty to work with `timeline` post. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Limit"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter number of logos to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Order By"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Select order type. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Order"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "You can pass multiple ids with comma seperated. You can find id at relevant category listing page. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Display Specific Category"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "You can pass multiple ids with comma seperated. You can find id at relevant category listing page."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter category id to display categories wise."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Display Child Category"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "If you are using parent category then whether to display child category timeline or not. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Exclude post category. Works only if `Category` field is empty. You can pass multiple ids with comma seperated. You can find id at relevant category listing page. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Display Specific Posts"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter id of the post which you want to display. You can pass multiple ids with comma seperated. You can find id at relevant post listing page. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Exclude Post"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter id of the post which you do not want to display. You can pass multiple ids with comma seperated. You can find id at relevant post listing page. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Include Author"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter author id to display posts of particular author. You can pass multiple ids with comma seperated. You can find id at users listing page. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Exclude Author"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Enter author id to hide post of particular author. Works only if `Include Author` field is empty. You can pass multiple ids with comma seperated. You can find id at relevant users listing page. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Query Offset"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Exclude number of posts from starting. e.g if you pass 5 then it will skip first five post. Note: This will not work with limit=-1. Upgarade to "
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Do you want to check demo of this plugin."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Click here"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/index.js:1
+msgid "Do you also want to check premium version demo of this plugin."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/block.json
+msgctxt "block title"
+msgid "Timeline Slider"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/block.json
+msgctxt "block description"
+msgid "Display timeline in a slider view with various layouts."
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/block.json
+msgctxt "block keyword"
+msgid "wpos"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/block.json
+msgctxt "block keyword"
+msgid "timeline slider"
+msgstr ""
+
+#: includes/admin/supports/blocks/build/th-slider/block.json
+msgctxt "block keyword"
+msgid "th-slider"
+msgstr ""

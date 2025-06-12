@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){var e=document.querySelector('tr[data-slug="animation-addons-for-elementor"]');if(e){var t=e.querySelector(".deactivate a");t&&t.addEventListener("click",(function(e){e.preventDefault(),confirm("Are you sure you want to deactivate? Please provide feedback.")&&(window.location.href=t.href)}))}}));

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "meta-box/document-embedder",
+  "title": "Documenter Embedder",
+  "category": "common",
+  "icon": "media-document",
+  "keywords": [
+    "Documenter Embedder",
+    "Document"
+  ],
+  "attributes": {
+    "selected": {
+      "type": "number",
+      "default": 0
+    },
+    "data": {
+      "type": "object"
+    }
+  },
+  "example": {
+    "attributes": {
+      "selected": 0,
+      "data": {}
+    }
+  },
+  "editorScript": [
+    "file:./index.js"
+  ],
+  "render": "file:./render.php"
+}

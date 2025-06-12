@@ -1,0 +1,1518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-10-02 02:20+0500\n"
+"PO-Revision-Date: 2022-09-13 11:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#: admin/partials/ptl-settings.php:691
+msgid "0.5"
+msgstr "0,5"
+
+#: admin/partials/ptl-settings.php:205
+msgid "03/10/2017"
+msgstr "10.03.2017"
+
+#: admin/partials/ptl-settings.php:207
+msgid "05-16-18"
+msgstr "05-16-18"
+
+#: admin/partials/ptl-settings.php:204
+msgid "10 March, 2010"
+msgstr "10 марта 2010 г."
+
+#: admin/partials/ptl-settings.php:364
+msgid "14"
+msgstr "14"
+
+#: admin/partials/ptl-settings.php:206
+msgid "16-05-18"
+msgstr "16-05-18"
+
+#: admin/partials/ptl-settings.php:411
+msgid "1px"
+msgstr "1 пиксель"
+
+#: admin/partials/ptl-settings.php:209
+msgid "2001-03-10"
+msgstr "2001-03-10"
+
+#: admin/partials/ptl-settings.php:201
+msgid "23 Mar"
+msgstr "23 марта"
+
+#: admin/partials/ptl-settings.php:412
+msgid "2px"
+msgstr "2 пикселя"
+
+#: admin/partials/ptl-settings.php:413
+msgid "3px"
+msgstr "3 пикселя"
+
+#: admin/partials/ptl-settings.php:414
+msgid "4px"
+msgstr "4 пикселя"
+
+#: admin/partials/multiple-templates-pro.php:30
+msgid "50+ Amazing Timeline Templates"
+msgstr "50+ потрясающих шаблонов временной шкалы"
+
+#: admin/partials/ptl-settings.php:415
+msgid "5px"
+msgstr "5 пикселей"
+
+#: admin/partials/admin-fields.php:43
+msgid "A catchy tag line here"
+msgstr "Броский слоган здесь"
+
+#: admin/partials/ptl-settings.php:575
+msgid "Add a hex color code to the base line"
+msgstr "Добавьте шестнадцатеричный код цвета к базовой линии"
+
+#: admin/partials/ptl-settings.php:458
+msgid "Add a hex color code to the container background"
+msgstr "Добавьте шестнадцатеричный код цвета на фон контейнера."
+
+#: admin/partials/ptl-settings.php:561
+msgid "Add a hex color code to the navigation style"
+msgstr "Добавьте шестнадцатеричный код цвета в стиль навигации"
+
+#: admin/partials/ptl-settings.php:472
+msgid "Add a hex color code to the post background"
+msgstr "Добавьте шестнадцатеричный код цвета к фону поста."
+
+#: includes/admin/manager.php:170
+msgctxt "add new on admin bar"
+msgid "Post Timeline"
+msgstr "Опубликовать временную шкалу"
+
+#: includes/admin/manager.php:225
+msgid "Add New Tag"
+msgstr "Добавить новый тег"
+
+#: includes/admin/manager.php:172
+msgid "Add New Timeline Post"
+msgstr "Добавить новую публикацию на временной шкале"
+
+#: admin/partials/multiple-templates-pro.php:217
+msgid "Add Timeline Shortcode"
+msgstr "Добавить шорткод временной шкалы"
+
+#: admin/partials/admin-fields.php:28
+msgid "Add URL"
+msgstr "Добавить URL"
+
+#: admin/partials/ptl-settings.php:783
+msgid "Add your custom CSS to add on the timeline page"
+msgstr ""
+"Добавьте свой собственный CSS для добавления на страницу временной шкалы."
+
+#: includes/admin/manager.php:169
+msgctxt "admin menu"
+msgid "Post Timelines"
+msgstr "Сроки публикации"
+
+#: admin/partials/multiple-templates-pro.php:230
+msgid ""
+"After adding the short code to the page, it is now its time to publish the "
+"page and get ready for the amazing timelines in action"
+msgstr ""
+"После добавления короткого кода на страницу пришло время опубликовать "
+"страницу и подготовиться к удивительным временным шкалам в действии."
+
+#. Author of the plugin
+msgid "AgileLogix"
+msgstr "AgileLogix"
+
+#: includes/vendors/elementor/widget.php:324
+msgid "Ajax Loader"
+msgstr "Загрузчик Ajax"
+
+#: includes/core.php:189
+msgid "All Categories"
+msgstr "Все категории"
+
+#: includes/core.php:215 includes/admin/manager.php:229
+msgid "All Tags"
+msgstr "Все теги"
+
+#: includes/admin/manager.php:176
+#, fuzzy
+#| msgid "All Timelines"
+msgid "All Timeline Post"
+msgstr "All Post Timelines"
+
+#: admin/partials/ptl-settings.php:30 admin/partials/ptl-settings.php:597
+msgid "Animation"
+msgstr "Анимация"
+
+#: admin/partials/ptl-settings.php:699
+msgid "Animation Easing"
+msgstr "Ослабление анимации"
+
+#: admin/partials/ptl-settings.php:604
+msgid "Animation Enabled"
+msgstr "Анимация включена"
+
+#: admin/partials/ptl-settings.php:625
+msgid "Animation on scroll"
+msgstr "Анимация при прокрутке"
+
+#: includes/admin/manager.php:605
+msgid "animation speed max: '2' and min: '0.1'"
+msgstr "максимальная скорость анимации: «2» и минимальная: «0,1»"
+
+#: admin/partials/ptl-settings.php:644
+msgid "Animation Type"
+msgstr "Тип анимации"
+
+#: admin/partials/shortcode-popup-html.php:209
+msgid "Arrange your timeline based on sorting sequence."
+msgstr "Расположите временную шкалу на основе последовательности сортировки."
+
+#: admin/partials/ptl-settings.php:185
+#: admin/partials/shortcode-popup-html.php:204
+#: includes/vendors/elementor/widget.php:462
+msgid "Ascending"
+msgstr "Восходящий"
+
+#: admin/partials/ptl-settings.php:651
+#: admin/partials/shortcode-popup-html.php:77
+msgid "BackIn Left/Right"
+msgstr "НазадВлево/Вправо"
+
+#: admin/partials/ptl-settings.php:11 admin/partials/ptl-settings.php:51
+msgid "Basic"
+msgstr "Базовый"
+
+#: admin/partials/ptl-settings.php:652
+#: admin/partials/shortcode-popup-html.php:78
+#: includes/vendors/elementor/widget.php:445
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: admin/partials/ptl-settings.php:653
+#: admin/partials/shortcode-popup-html.php:79
+#: includes/vendors/elementor/widget.php:446
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: admin/partials/ptl-settings.php:259
+msgid "Carousel"
+msgstr "Карусель"
+
+#: includes/vendors/elementor/widget.php:276
+msgid "Category IDs"
+msgstr "Идентификаторы категорий"
+
+#: admin/partials/shortcode-popup-html.php:139
+msgid "Choose a color for the background."
+msgstr "Выберите цвет для фона."
+
+#: admin/partials/ptl-settings.php:353
+msgid "Choose a font-family for the timeline"
+msgstr "Выберите семейство шрифтов для временной шкалы"
+
+#: admin/partials/shortcode-popup-html.php:190
+msgid "Choose a navigation direction for your timeline."
+msgstr "Выберите направление навигации для временной шкалы."
+
+#: admin/partials/shortcode-popup-html.php:174
+msgid "Choose a skin tone for your timeline."
+msgstr "Выберите оттенок кожи для вашей временной шкалы."
+
+#: admin/partials/shortcode-popup-html.php:292
+msgid "Choose a source from where the post will be added to the timeline."
+msgstr "Выберите источник, из которого пост будет добавлен на временную шкалу."
+
+#: admin/partials/shortcode-cpt.php:66
+msgid "Choose by which criteria the post content is classified or categorized."
+msgstr ""
+"Выберите, по каким критериям контент публикации классифицируется или "
+"классифицируется."
+
+#: admin/partials/ptl-settings.php:586
+msgid "Choose how many posts to appear per page."
+msgstr "Выберите, сколько сообщений должно отображаться на странице."
+
+#: admin/partials/ptl-settings.php:264
+msgid "Choose how your timeline gallery will appear"
+msgstr "Выберите, как будет выглядеть ваша галерея временной шкалы"
+
+#: admin/partials/ptl-settings.php:212
+msgid "Choose the date format for your posts."
+msgstr "Выберите формат даты для ваших сообщений."
+
+#: admin/partials/shortcode-ptl.php:29 admin/partials/shortcode-cpt.php:92
+msgid "Choose the number of displays per page"
+msgstr "Выберите количество показов на странице"
+
+#: admin/partials/shortcode-popup-html.php:44
+msgid "Choose the orientation of your timeline."
+msgstr "Выберите ориентацию временной шкалы."
+
+#: admin/partials/ptl-settings.php:418
+msgid "Choose the radius of the post corners"
+msgstr "Выберите радиус углов стойки"
+
+#: admin/partials/ptl-settings.php:764
+msgid "Choose the style of loader for the animations"
+msgstr "Выберите стиль загрузчика для анимации"
+
+#: admin/partials/shortcode-ptl.php:15 admin/partials/shortcode-cpt.php:23
+msgid "Choose the type of Category for the timeline."
+msgstr "Выберите тип категории для временной шкалы."
+
+#: admin/partials/shortcode-ptl.php:43 admin/partials/shortcode-cpt.php:78
+msgid "Choose what type of description will be in the timeline"
+msgstr "Выберите, какой тип описания будет на временной шкале"
+
+#: admin/partials/shortcode-cpt.php:15
+msgid "Choose what type of post to include in the timeline."
+msgstr "Выберите тип публикации для включения в хронологию."
+
+#: admin/partials/ptl-settings.php:175
+msgid "Choose whether your timeline will be tag-based or date-based."
+msgstr "Выберите, будет ли ваша временная шкала основана на тегах или дате."
+
+#: admin/partials/ptl-settings.php:189
+msgid "Choose which direction your timeline will be displayed in"
+msgstr "Выберите, в каком направлении будет отображаться ваша временная шкала"
+
+#: admin/partials/shortcode-ptl.php:50 admin/partials/shortcode-cpt.php:85
+msgid "Choose which IDs to exclude"
+msgstr "Выберите, какие идентификаторы исключить"
+
+#: admin/partials/ptl-settings.php:328
+msgid "Choose which social media links to display on your timeline"
+msgstr ""
+"Выберите, какие ссылки социальных сетей будут отображаться на вашей "
+"временной шкале."
+
+#: admin/partials/shortcode-popup-html.php:118
+msgid "Choose Your Tag Type From Date and Tag."
+msgstr "Выберите тип тега с даты и тега."
+
+#: admin/partials/shortcode-popup-html.php:314
+msgid "Close"
+msgstr "Закрывать"
+
+#: admin/partials/admin-fields.php:145
+msgid "Color of Post (Default Color will be used if not selected)."
+msgstr ""
+"Цвет сообщения (цвет по умолчанию будет использоваться, если он не выбран)."
+
+#: admin/partials/ptl-settings.php:451
+msgid "Container Background"
+msgstr "Фон контейнера"
+
+#: admin/partials/ptl-settings.php:439
+msgid "Container Background Color"
+msgstr "Цвет фона контейнера"
+
+#: admin/partials/ptl-settings.php:360
+msgid "Content Font Size"
+msgstr "Размер шрифта содержимого"
+
+#: includes/admin/manager.php:595
+msgid "Content font size should'nt be in negative."
+msgstr "Размер шрифта содержимого не должен быть отрицательным."
+
+#: admin/partials/multiple-templates-pro.php:135
+msgid ""
+"Create a classic horizontal timeline that can display posts from left to "
+"right"
+msgstr ""
+"Создайте классическую горизонтальную временную шкалу, которая может "
+"отображать сообщения слева направо."
+
+#: admin/partials/multiple-templates-pro.php:126
+msgid ""
+"Create a timeline with information posted on the left side & right sides."
+msgstr ""
+"Создайте временную шкалу с информацией, размещенной на левой и правой "
+"сторонах."
+
+#: admin/partials/multiple-templates-pro.php:203
+msgid "Create Your Post"
+msgstr "Создайте свой пост"
+
+#: admin/partials/ptl-settings.php:36 admin/partials/ptl-settings.php:775
+msgid "Custom"
+msgstr "Обычай"
+
+#: admin/partials/ptl-settings.php:779
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: admin/partials/admin-fields.php:37
+msgid "Custom Ordering of Posts, default \"1\"."
+msgstr "Пользовательский порядок сообщений, по умолчанию «1»."
+
+#: admin/partials/shortcode-popup-html.php:288
+msgid "Custom Post Type"
+msgstr "Пользовательский тип сообщения"
+
+#: admin/partials/multiple-templates-pro.php:179
+msgid "Customizable Timelines"
+msgstr "Настраиваемые временные шкалы"
+
+#: admin/partials/ptl-settings.php:394
+#: admin/partials/shortcode-popup-html.php:170
+#: includes/vendors/elementor/widget.php:367
+msgid "Dark"
+msgstr "Темный"
+
+#: admin/partials/ptl-settings.php:430
+#: admin/partials/shortcode-popup-html.php:218
+msgid "Dashed"
+msgstr "Пунктирная"
+
+#: admin/partials/ptl-settings.php:169
+#: admin/partials/shortcode-popup-html.php:113
+msgid "Date Based"
+msgstr "Дата на основе"
+
+#: includes/admin/feedback.php:183
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: includes/admin/feedback.php:94
+msgid "Deactivation FeedBack"
+msgstr "Отзыв о деактивации"
+
+#: admin/partials/ptl-settings.php:410
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/partials/ptl-settings.php:348
+msgid "Default Font"
+msgstr "Шрифт по умолчанию"
+
+#: admin/partials/admin-fields.php:66
+msgid "Default Post image"
+msgstr "Изображение сообщения по умолчанию"
+
+#: admin/partials/ptl-settings.php:186
+#: admin/partials/shortcode-popup-html.php:205
+#: includes/vendors/elementor/widget.php:463
+msgid "Descending"
+msgstr "По убыванию"
+
+#: admin/partials/multiple-templates-pro.php:34
+#: admin/partials/multiple-templates-pro.php:42
+msgid "Different Navigations Styles"
+msgstr "Различные стили навигации"
+
+#: admin/partials/ptl-settings.php:274 admin/partials/shortcode-ptl.php:57
+#: admin/partials/shortcode-cpt.php:37
+msgid "Disable"
+msgstr "Запрещать"
+
+#: admin/partials/ptl-settings.php:224
+msgid "Disabled"
+msgstr "Неполноценный"
+
+#: admin/partials/shortcode-ptl.php:26 admin/partials/shortcode-cpt.php:89
+#: includes/vendors/elementor/widget.php:313
+msgid "Display per page"
+msgstr "Показать на странице"
+
+#: admin/partials/ptl-settings.php:78
+msgid "Display Post Images"
+msgstr "Показать изображения сообщений"
+
+#: admin/partials/multiple-templates-pro.php:229
+msgid "Display Timeline"
+msgstr "Показать временную шкалу"
+
+#: admin/partials/multiple-templates-pro.php:153
+msgid ""
+"Display your timeline in 4 different navigational styles on your timeline."
+msgstr ""
+"Отобразите свою временную шкалу в 4 различных стилях навигации на временной "
+"шкале."
+
+#: admin/partials/ptl-settings.php:429
+#: admin/partials/shortcode-popup-html.php:217
+msgid "Dotted"
+msgstr "Пунктирный"
+
+#: includes/admin/manager.php:227
+msgid "Edit Tag"
+msgstr "Изменить тег"
+
+#: includes/admin/manager.php:174
+msgid "Edit Timeline Post"
+msgstr "Редактировать публикацию в хронике"
+
+#: admin/partials/ptl-settings.php:735
+msgid "Enable or disable images lazy-load"
+msgstr "Включить или отключить ленивую загрузку изображений"
+
+#: admin/partials/shortcode-popup-html.php:270
+msgid "Enable this include option to add custom HTML on the timeline."
+msgstr ""
+"Включите эту опцию включения, чтобы добавить пользовательский HTML на "
+"временную шкалу."
+
+#: admin/partials/ptl-settings.php:612
+msgid "Enable this option to be able to add icons"
+msgstr "Включите эту опцию, чтобы иметь возможность добавлять значки"
+
+#: admin/partials/ptl-settings.php:106
+msgid "Enable this option to disable post content"
+msgstr "Включите эту опцию, чтобы отключить содержимое публикации"
+
+#: admin/partials/ptl-settings.php:66
+msgid "Enable this option to show post icons"
+msgstr "Включите эту опцию, чтобы отображать значки сообщений"
+
+#: admin/partials/shortcode-popup-html.php:157
+msgid "Enable this to open links in a different tab."
+msgstr "Включите это, чтобы открывать ссылки на другой вкладке."
+
+#: admin/partials/ptl-settings.php:444
+msgid "Enable/disable container background color"
+msgstr "Включить/отключить цвет фона контейнера"
+
+#: admin/partials/ptl-settings.php:499
+msgid "Enable/disable timeline navigation"
+msgstr "Включить/выключить навигацию по временной шкале"
+
+#: includes/vendors/elementor/widget.php:263
+msgid "Enter Taxanomy"
+msgstr "Введите таксономию"
+
+#: admin/partials/ptl-settings.php:245
+msgid "Enter the slug (website identifier) of your timeline’s page"
+msgstr "Введите слаг (идентификатор веб-сайта) страницы вашей временной шкалы."
+
+#: admin/partials/admin-fields.php:44
+msgid "Enter Your Tag Line."
+msgstr "Введите строку тега."
+
+#: admin/partials/admin-fields.php:7
+msgid "Event Details"
+msgstr "Детали события"
+
+#: admin/partials/admin-fields.php:53
+msgid "Event Media"
+msgstr "Медиа событий"
+
+#: includes/vendors/elementor/widget.php:278
+#: includes/vendors/elementor/widget.php:294
+msgid "example: 10,13,2,4"
+msgstr "пример: 10,13,2,4"
+
+#: includes/vendors/elementor/widget.php:304
+msgid "example: 11,12,5,7"
+msgstr "пример: 11,12,5,7"
+
+#: admin/partials/shortcode-ptl.php:39 admin/partials/shortcode-cpt.php:74
+#: includes/vendors/elementor/widget.php:253
+msgid "Excerpt"
+msgstr "Выдержка"
+
+#: admin/partials/shortcode-ptl.php:47 admin/partials/shortcode-cpt.php:82
+#: includes/vendors/elementor/widget.php:302
+msgid "Exclude IDs"
+msgstr "Исключить идентификаторы"
+
+#: admin/partials/ptl-settings.php:633
+msgid "Experience posts animation by scrolling up or down"
+msgstr "Испытайте анимацию сообщений, прокручивая вверх или вниз"
+
+#: admin/partials/ptl-settings.php:657
+#: admin/partials/shortcode-popup-html.php:83
+msgid "FadeDown Left/Right"
+msgstr "FadeDown влево/вправо"
+
+#: admin/partials/ptl-settings.php:654
+#: admin/partials/shortcode-popup-html.php:80
+msgid "FadeIn"
+msgstr "FadeIn"
+
+#: admin/partials/ptl-settings.php:658
+#: admin/partials/shortcode-popup-html.php:84
+msgid "FadeIn Left/Right"
+msgstr "FadeIn влево/вправо"
+
+#: admin/partials/ptl-settings.php:656
+#: admin/partials/shortcode-popup-html.php:82
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+#: admin/partials/ptl-settings.php:655
+#: admin/partials/shortcode-popup-html.php:81
+msgid "FadeUp Left/Right"
+msgstr "FadeUp влево/вправо"
+
+#: admin/partials/shortcode-ptl.php:19 admin/partials/shortcode-cpt.php:27
+#: includes/vendors/elementor/widget.php:292
+msgid "Filter By IDs"
+msgstr "Фильтровать по идентификаторам"
+
+#: admin/partials/ptl-settings.php:661
+#: admin/partials/shortcode-popup-html.php:87
+msgid "Flip Left/Right"
+msgstr "Отразить влево/вправо"
+
+#: admin/partials/ptl-settings.php:660
+#: admin/partials/shortcode-popup-html.php:86
+#: includes/vendors/elementor/widget.php:442
+msgid "Flip X"
+msgstr "Перевернуть X"
+
+#: admin/partials/ptl-settings.php:659
+#: admin/partials/shortcode-popup-html.php:85
+#: includes/vendors/elementor/widget.php:441
+msgid "Flip Y"
+msgstr "Перевернуть Y"
+
+#: admin/partials/ptl-settings.php:123 admin/partials/admin-fields.php:103
+msgid "Font Awesome"
+msgstr "Шрифт потрясающий"
+
+#: admin/partials/ptl-settings.php:338
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: admin/partials/admin-fields.php:29
+msgid "For Separate Page URL(Optional)."
+msgstr "Для отдельной страницы URL (необязательно)."
+
+#: admin/partials/shortcode-ptl.php:38 admin/partials/shortcode-cpt.php:73
+msgid "Full Content"
+msgstr "Полный контент"
+
+#: includes/vendors/elementor/widget.php:254
+msgid "Full Text"
+msgstr "Полный текст"
+
+#: admin/partials/admin-fields.php:78
+msgid "Gallery images"
+msgstr "Галерея изображений"
+
+#: admin/partials/shortcode-popup-html.php:6
+msgid "Generate Post-Timeline Shortcode"
+msgstr "Создать шорткод после временной шкалы"
+
+#: admin/partials/multiple-templates-pro.php:257
+msgid "Get Support!"
+msgstr "Получать поддержку!"
+
+#: admin/partials/multiple-templates-pro.php:50
+msgid "Gutenberg Based Timelines(Chat, Notification, Block Timelines)"
+msgstr ""
+"Временные шкалы на основе Гутенберга (чат, уведомления, временные шкалы "
+"блоков)"
+
+#: admin/partials/ptl-settings.php:717
+msgid "Help"
+msgstr "Помощь"
+
+#: admin/partials/ptl-settings.php:199
+msgid "Hide"
+msgstr "Скрывать"
+
+#: admin/partials/ptl-settings.php:98
+msgid "Hide Content"
+msgstr "Скрыть содержимое"
+
+#: admin/partials/shortcode-popup-html.php:39
+msgid "Horizontal"
+msgstr "Горизонтальный"
+
+#: includes/vendors/elementor/widget.php:352
+msgid "Horizontal Layout"
+msgstr "Горизонтальная компоновка"
+
+#: admin/partials/multiple-templates-pro.php:98
+#: admin/partials/multiple-templates-pro.php:134
+msgid "Horizontal Timeline"
+msgstr "Горизонтальная временная шкала"
+
+#: admin/partials/multiple-templates-pro.php:188
+msgid "How Timelines Work"
+msgstr "Как работают временные шкалы"
+
+#: admin/partials/admin-fields.php:27
+msgid "https://example.com/my-story"
+msgstr "https://example.com/моя история"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://posttimeline.com/"
+msgstr "https://posttimeline.com/"
+
+#: includes/admin/feedback.php:130
+msgid "I couldn't get the plugin to work"
+msgstr "не смог заставить плагин работать"
+
+#: includes/admin/feedback.php:126
+msgid "I found a better plugin"
+msgstr "Я нашел лучший плагин"
+
+#: includes/admin/feedback.php:122
+msgid "I no longer need the plugin"
+msgstr "Мне больше не нужен плагин"
+
+#: admin/partials/multiple-templates-pro.php:180
+msgid ""
+"In Post timeline, you can confidently customize any timeline based on your "
+"goals."
+msgstr ""
+"В временной шкале публикации вы можете уверенно настраивать любую временную "
+"шкалу в зависимости от ваших целей."
+
+#: admin/partials/shortcode-popup-html.php:261
+#: includes/vendors/elementor/widget.php:507
+msgid "Include HTML"
+msgstr "Включить HTML"
+
+#: admin/partials/shortcode-popup-html.php:197
+msgid "Increase or decrease the Navigation distance to the timeline tag."
+msgstr "Увеличьте или уменьшите Расстояние навигации до тега временной шкалы."
+
+#: admin/partials/shortcode-popup-html.php:315
+msgid "Insert Shortcode"
+msgstr "Вставить шорткод"
+
+#: admin/partials/multiple-templates-pro.php:204
+msgid ""
+"Instead of watching other timelines, create your own timeline post and "
+"leverage top-rated timeline features"
+msgstr ""
+"Вместо того, чтобы смотреть другие временные шкалы, создайте свою "
+"собственную временную публикацию и используйте самые популярные функции "
+"временной шкалы."
+
+#: includes/admin/feedback.php:118
+msgid "It's a temporary deactivation"
+msgstr "Это временная деактивация"
+
+#: admin/partials/ptl-settings.php:727
+msgid "Lazy Load"
+msgstr "Ленивая загрузка"
+
+#: admin/partials/multiple-templates-pro.php:125
+msgid "Left And Right Timeline"
+msgstr "Левая и правая временная шкала"
+
+#: admin/partials/multiple-templates-pro.php:88
+msgid "Left Side Timeline"
+msgstr "Левая сторона временной шкалы"
+
+#: admin/partials/ptl-settings.php:236
+msgid "Length of post content by the character count"
+msgstr "Длина поста по количеству символов"
+
+#: admin/partials/shortcode-popup-html.php:122
+msgid "Letter Spacing"
+msgstr "Межбуквенное расстояние"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Leverage"
+msgstr "Использовать"
+
+#: admin/partials/ptl-settings.php:388
+#: admin/partials/shortcode-popup-html.php:169
+#: includes/vendors/elementor/widget.php:368
+msgid "Light"
+msgstr "Легкий"
+
+#: admin/partials/multiple-templates-pro.php:161
+msgid "Light And Dark Template"
+msgstr "Светлый и темный шаблон"
+
+#: admin/partials/ptl-settings.php:662
+#: admin/partials/shortcode-popup-html.php:88
+msgid "lightSpeed Left/Right"
+msgstr "скорость света влево/вправо"
+
+#: admin/partials/shortcode-popup-html.php:229
+msgid "Line Color"
+msgstr "Цвет линии"
+
+#: admin/partials/ptl-settings.php:423
+msgid "Line Style"
+msgstr "Стиль линии"
+
+#: admin/partials/shortcode-popup-html.php:148
+#: includes/vendors/elementor/widget.php:494
+msgid "Link open in new tab"
+msgstr "Ссылка открывается в новой вкладке"
+
+#: includes/layouts/base.php:709
+msgid "Load More"
+msgstr "Загрузи больше"
+
+#: admin/partials/shortcode-ptl.php:54 admin/partials/shortcode-cpt.php:34
+msgid "Load more"
+msgstr "Загрузи больше"
+
+#: admin/partials/ptl-settings.php:275
+msgid "Load more Button"
+msgstr "Кнопка «Загрузить еще»"
+
+#: admin/partials/ptl-settings.php:276
+msgid "Load more on Scroll"
+msgstr "Загрузить больше на прокрутке"
+
+#: admin/partials/ptl-settings.php:754
+msgid "Loader Bubble"
+msgstr "Пузырь загрузчика"
+
+#: admin/partials/shortcode-ptl.php:58 admin/partials/shortcode-cpt.php:38
+msgid "LoadMore Button"
+msgstr "Кнопка «Загрузить еще»"
+
+#: admin/partials/shortcode-ptl.php:59 admin/partials/shortcode-cpt.php:39
+msgid "LoadMore on Scroll"
+msgstr "Загрузить больше при прокрутке"
+
+#: admin/partials/ptl-settings.php:200
+msgid "Mar"
+msgstr "март"
+
+#: admin/partials/ptl-settings.php:202
+msgid "Mar 10, 2001"
+msgstr "10 марта 2001 г."
+
+#: admin/partials/ptl-settings.php:203
+msgid "March 10, 2001"
+msgstr "10 марта 2001 г."
+
+#: admin/partials/admin-fields.php:58
+msgid "Media Type"
+msgstr "Тип носителя"
+
+#: admin/partials/multiple-templates-pro.php:58
+msgid "My Timelines"
+msgstr "Мои сроки"
+
+#: includes/vendors/elementor/widget.php:410
+msgid "Nav max"
+msgstr "Навигация макс."
+
+#: includes/vendors/elementor/widget.php:421
+msgid "Nav Offset"
+msgstr "Смещение навигации"
+
+#: admin/partials/ptl-settings.php:24 admin/partials/ptl-settings.php:483
+msgid "Navigation"
+msgstr "Навигация"
+
+#: admin/partials/ptl-settings.php:554
+msgid "Navigation Color"
+msgstr "Цвет навигации"
+
+#: admin/partials/ptl-settings.php:490
+msgid "Navigation Enabled"
+msgstr "Навигация включена"
+
+#: admin/partials/shortcode-popup-html.php:65
+msgid "Navigation Limit"
+msgstr "Ограничение навигации"
+
+#: includes/vendors/elementor/widget.php:411
+msgid "Navigation maximum number (example: 5)"
+msgstr "Максимальное число навигации (пример: 5)"
+
+#: admin/partials/shortcode-popup-html.php:194
+msgid "Navigation Offset"
+msgstr "Смещение навигации"
+
+#: includes/vendors/elementor/widget.php:422
+msgid "Navigation offset (example: 70)"
+msgstr "Смещение навигации (пример: 70)"
+
+#: admin/partials/multiple-templates-pro.php:152
+msgid "Navigation Style"
+msgstr "Стиль навигации"
+
+#: admin/partials/ptl-settings.php:510
+msgid "Navigation Type"
+msgstr "Тип навигации"
+
+#: includes/admin/manager.php:226
+msgid "New Tag"
+msgstr "Новый тег"
+
+#: includes/admin/manager.php:173
+msgid "New Timeline Post"
+msgstr "Новый пост в хронике"
+
+#: includes/admin/manager.php:233
+msgid "No Tag found in Trash."
+msgstr "Тег не найден в корзине."
+
+#: includes/admin/manager.php:232
+msgid "No Tag found."
+msgstr "Тег не найден."
+
+#: includes/admin/manager.php:180
+msgid "No timelines found in Trash."
+msgstr "В корзине не найдены временные шкалы."
+
+#: includes/admin/manager.php:179
+msgid "No timelines found."
+msgstr "Сроки не найдены."
+
+#: admin/partials/ptl-settings.php:585
+msgid "Numberic Value (Example: 10)"
+msgstr "Числовое значение (пример: 10)"
+
+#: admin/partials/ptl-settings.php:235
+msgid "Numberic Value (Example: 24)"
+msgstr "Числовое значение (пример: 24)"
+
+#: includes/vendors/elementor/widget.php:328
+#: includes/vendors/elementor/widget.php:498
+#: includes/vendors/elementor/widget.php:511
+msgid "Off"
+msgstr "Выключенный"
+
+#: includes/vendors/elementor/widget.php:327
+#: includes/vendors/elementor/widget.php:497
+#: includes/vendors/elementor/widget.php:510
+msgid "On"
+msgstr "На"
+
+#: admin/partials/shortcode-popup-html.php:40
+msgid "One Side"
+msgstr "Одна сторона"
+
+#: includes/vendors/elementor/widget.php:353
+msgid "One Side Layout"
+msgstr "Макет с одной стороны"
+
+#: admin/partials/multiple-templates-pro.php:143
+msgid "One-Sided Timeline"
+msgstr "Односторонняя временная шкала"
+
+#: includes/admin/feedback.php:139
+msgid "Other"
+msgstr "Другой"
+
+#: admin/partials/admin-fields.php:25
+msgid "Page URL"
+msgstr "URL-адрес страницы"
+
+#: includes/admin/manager.php:234
+msgid "Parent Tag"
+msgstr "Родительский тег"
+
+#: includes/admin/manager.php:231
+msgid "Parent Tag:"
+msgstr "Родительский тег:"
+
+#: includes/admin/manager.php:181
+msgid "Parent Timeline"
+msgstr "Родительская хронология"
+
+#: includes/admin/manager.php:178
+msgid "Parent Timelines:"
+msgstr "Родительские сроки:"
+
+#: admin/partials/multiple-templates-pro.php:170
+msgid "Personalize Timeline post"
+msgstr "Персонализируйте публикацию в хронике"
+
+#: admin/partials/shortcode-popup-html.php:106
+msgid "Pick an animation type for timeline transitions."
+msgstr "Выберите тип анимации для переходов на временной шкале."
+
+#: admin/partials/shortcode-popup-html.php:222
+msgid "Pick line styles among solid, dotted, and dashed"
+msgstr "Выберите стили линий среди сплошных, пунктирных и пунктирных"
+
+#: includes/admin/feedback.php:140
+msgid "Please share the reason"
+msgstr "Пожалуйста, поделитесь причиной"
+
+#: includes/admin/feedback.php:127
+msgid "Please share which plugin"
+msgstr "Поделитесь, какой плагин"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Plugin"
+msgstr "Плагин"
+
+#: admin/partials/ptl-settings.php:260
+msgid "Popup Slider"
+msgstr "Всплывающий слайдер"
+
+#: admin/partials/ptl-settings.php:465
+msgid "Post Background"
+msgstr "Фон поста"
+
+#: admin/partials/admin-fields.php:139
+#: admin/partials/shortcode-popup-html.php:132
+#: includes/vendors/elementor/widget.php:473
+msgid "Post Background Color"
+msgstr "Цвет фона поста"
+
+#: admin/partials/ptl-settings.php:405
+msgid "Post Border Radius"
+msgstr "Пост границы радиуса"
+
+#: admin/partials/ptl-settings.php:232
+msgid "Post Content Length"
+msgstr "Длина поста"
+
+#: admin/partials/ptl-settings.php:194 admin/partials/admin-fields.php:15
+msgid "Post Date"
+msgstr "Дата публикации"
+
+#: admin/partials/ptl-settings.php:58 admin/partials/ptl-settings.php:116
+#: admin/partials/admin-fields.php:98
+msgid "Post Icon"
+msgstr "Значок сообщения"
+
+#: includes/components/like.php:85
+msgid "Post Liked"
+msgstr "Сообщение понравилось"
+
+#: admin/partials/ptl-settings.php:217
+msgid "Post Link Type"
+msgstr "Тип ссылки на пост"
+
+#: includes/admin/manager.php:766
+msgid "Post name"
+msgstr "Название сообщения"
+
+#: admin/partials/shortcode-popup-html.php:245
+#: includes/vendors/elementor/widget.php:483
+msgid "Post Navigation Color"
+msgstr "Цвет пост-навигации"
+
+#: admin/partials/admin-fields.php:34
+msgid "Post Order (Number Only)"
+msgstr "Почтовый заказ (только номер)"
+
+#: admin/partials/ptl-settings.php:582
+msgid "Post Per Page"
+msgstr "Количество сообщений на странице"
+
+#: includes/vendors/elementor/widget.php:177
+msgid "Post Story Timeline Settings"
+msgstr "Настройки временной шкалы публикаций"
+
+#. Name of the plugin
+#: includes/vendors/elementor/widget.php:50
+msgid "Post Timeline"
+msgstr "Опубликовать временную шкалу"
+
+#: admin/partials/multiple-templates-pro.php:106
+msgid "Post Timeline Features"
+msgstr "Особенности временной шкалы публикации"
+
+#. Description of the plugin
+msgid ""
+"Post Timeline Pro is the Premium WordPress Timeline Plugin, through which "
+"users can create unlimited beautiful Vertical, horizontal and Both Side "
+"timelines."
+msgstr ""
+"Post Timeline Pro — это премиальный плагин временной шкалы WordPress, с "
+"помощью которого пользователи могут создавать неограниченное количество "
+"красивых вертикальных, горизонтальных и двусторонних временных шкал."
+
+#: includes/admin/manager.php:167
+msgctxt "post type general name"
+msgid "Post Timelines"
+msgstr "Сроки публикации"
+
+#: includes/admin/manager.php:168
+msgctxt "post type singular name"
+msgid "Post Timeline"
+msgstr "Опубликовать временную шкалу"
+
+#: admin/partials/admin-fields.php:134
+#: admin/partials/shortcode-popup-html.php:23
+msgid "Post UI"
+msgstr "Опубликовать пользовательский интерфейс"
+
+#: admin/partials/shortcode-popup-html.php:287
+msgid "Post-Timeline"
+msgstr "Постхронология"
+
+#: admin/partials/ptl-settings.php:244
+msgid "post-timeline-slug"
+msgstr "посттаймлайн-слаг"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Premium"
+msgstr "Премиум"
+
+#: admin/partials/admin-fields.php:88
+msgid "Provide the video link for the Iframe."
+msgstr "Укажите ссылку на видео для Iframe."
+
+#: admin/blocks/index.php:18
+msgid "PTL Blocks"
+msgstr "Блоки ЛЭП"
+
+#: includes/layouts/layout-2.php:158 includes/layouts/layout-5.php:152
+#: includes/layouts/layout-1.php:147 includes/layouts/layout-0.php:139
+msgid "Read More"
+msgstr "Прочитайте больше"
+
+#: admin/partials/ptl-settings.php:222
+msgid "Read More button"
+msgstr "Кнопка «Подробнее»"
+
+#: admin/partials/multiple-templates-pro.php:78
+msgid "Right Side Timeline"
+msgstr "Правая сторона"
+
+#: admin/partials/ptl-settings.php:663
+#: admin/partials/shortcode-popup-html.php:89
+msgid "RotateIn"
+msgstr "Повернуть в"
+
+#: admin/partials/ptl-settings.php:208
+msgid "Sat Mar 10 17:16:18"
+msgstr "Сб 10 мар 17:16:18"
+
+#: includes/admin/manager.php:230
+msgid "Search Tag"
+msgstr "Тег поиска"
+
+#: includes/admin/manager.php:177
+msgid "Search Timelines"
+msgstr "Хронология поиска"
+
+#: admin/partials/shortcode-popup-html.php:252
+msgid "Select a color for navigating through the timeline."
+msgstr "Выберите цвет для навигации по временной шкале."
+
+#: admin/partials/shortcode-popup-html.php:236
+msgid "Select a color for Tagline through the timeline."
+msgstr "Выберите цвет для слогана на временной шкале."
+
+#: admin/partials/ptl-settings.php:400
+msgid "Select a skin “tone” for the timeline."
+msgstr "Выберите «тон» кожи для временной шкалы."
+
+#: admin/partials/ptl-settings.php:149
+msgid "Select a source from where to add an icon"
+msgstr "Выберите источник, откуда добавить значок"
+
+#: admin/partials/ptl-settings.php:681
+msgid "Select a style of animation for the timeline"
+msgstr "Выберите стиль анимации для временной шкалы"
+
+#: admin/partials/ptl-settings.php:547
+msgid "Select a timeline navigation style"
+msgstr "Выберите стиль навигации по временной шкале"
+
+#: admin/partials/shortcode-popup-html.php:61
+msgid "Select a timeline template."
+msgstr "Выберите шаблон временной шкалы."
+
+#: admin/partials/shortcode-popup-html.php:72
+#: includes/vendors/elementor/widget.php:436
+msgid "Select Animation"
+msgstr "Выберите анимацию"
+
+#: admin/partials/shortcode-ptl.php:4 admin/partials/shortcode-cpt.php:19
+msgid "Select Category"
+msgstr "выбрать категорию"
+
+#: admin/partials/shortcode-ptl.php:35 admin/partials/shortcode-cpt.php:70
+#: includes/vendors/elementor/widget.php:249
+msgid "Select Description Type"
+msgstr "Выберите тип описания"
+
+#: admin/partials/ptl-settings.php:343
+msgid "Select Font"
+msgstr "Выберите шрифт"
+
+#: admin/partials/admin-fields.php:117
+msgid "Select Font Awesome Icon"
+msgstr "Выберите значок Font Awesome"
+
+#: admin/partials/ptl-settings.php:692
+msgid "Select how fast or slow the animation “moves”"
+msgstr "Выберите, насколько быстро или медленно «двигается» анимация."
+
+#: admin/partials/ptl-settings.php:227
+msgid "Select how links are utilized on your timeline"
+msgstr "Выберите, как ссылки будут использоваться на вашей временной шкале."
+
+#: admin/partials/ptl-settings.php:280
+msgid "Select how more posts will be loaded on the timeline"
+msgstr "Выберите, как больше сообщений будет загружаться на временную шкалу."
+
+#: admin/partials/shortcode-ptl.php:63 admin/partials/shortcode-cpt.php:43
+msgid "Select how upcoming posts will be loaded"
+msgstr "Выберите, как будут загружаться предстоящие сообщения"
+
+#: admin/partials/shortcode-popup-html.php:213
+msgid "Select Line Style"
+msgstr "Выберите стиль линии"
+
+#: admin/partials/ptl-settings.php:746
+msgid "Select Loader"
+msgstr "Выберите загрузчик"
+
+#: admin/partials/shortcode-popup-html.php:178
+#: includes/vendors/elementor/widget.php:393
+msgid "Select Navigation Type"
+msgstr "Выберите тип навигации"
+
+#: admin/partials/ptl-settings.php:269
+msgid "Select Pagination"
+msgstr "Выберите разбиение на страницы"
+
+#: includes/vendors/elementor/widget.php:149
+msgid "Select Post Type"
+msgstr "Выберите тип сообщения"
+
+#: admin/partials/shortcode-cpt.php:4 includes/vendors/elementor/widget.php:219
+msgid "Select Post types"
+msgstr "Выберите типы сообщений"
+
+#: admin/partials/shortcode-popup-html.php:166
+msgid "Select Skin Type"
+msgstr "Выберите тип кожи"
+
+#: admin/partials/ptl-settings.php:254
+msgid "Select Slide Type"
+msgstr "Выберите тип слайда"
+
+#: admin/partials/shortcode-popup-html.php:284
+msgid "Select Source"
+msgstr "Выберите источник"
+
+#: admin/partials/shortcode-popup-html.php:110
+msgid "Select Tag Type"
+msgstr "Выберите тип тега"
+
+#: admin/partials/shortcode-cpt.php:52 admin/partials/shortcode-cpt.php:55
+msgid "Select Taxonomy"
+msgstr "Выберите таксономию"
+
+#: admin/partials/ptl-settings.php:717
+msgid "Select the animation easing of vertical timeline"
+msgstr "Выберите ослабление анимации вертикальной временной шкалы."
+
+#: admin/partials/ptl-settings.php:366
+msgid "Select the content area font size of the timeline."
+msgstr "Выберите размер шрифта области содержимого временной шкалы."
+
+#: admin/partials/admin-fields.php:22
+msgid "Select the Month/Date/Year of Timeline"
+msgstr "Выберите месяц/дату/год временной шкалы"
+
+#: admin/partials/ptl-settings.php:433
+msgid "Select the style of the main “backbone” line."
+msgstr "Выберите стиль основной «основной» линии."
+
+#: admin/partials/shortcode-popup-html.php:48
+msgid "Select Timeline Model"
+msgstr "Выберите модель временной шкалы"
+
+#: admin/partials/shortcode-popup-html.php:35
+msgid "Select Timeline Orientation"
+msgstr "Выберите ориентацию временной шкалы"
+
+#: includes/vendors/elementor/widget.php:194
+msgid "Select types"
+msgstr "Выберите типы"
+
+#: admin/partials/shortcode-ptl.php:22 admin/partials/shortcode-cpt.php:30
+msgid "Select which IDs to include"
+msgstr "Выберите, какие идентификаторы включить"
+
+#: admin/partials/shortcode-popup-html.php:68
+#: admin/partials/shortcode-popup-html.php:125
+msgid "Set your tag-based Navigation Limit"
+msgstr "Установите лимит навигации на основе тегов"
+
+#: includes/admin/manager.php:618
+msgid "Setting has been Updated Successfully."
+msgstr "Настройка была успешно обновлена."
+
+#: admin/partials/shortcode-popup-html.php:20 includes/admin/feedback.php:205
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/partials/multiple-templates-pro.php:10
+msgid ""
+"Show Your Cool Stories To the World With Interactive &   Top-Rated Timelines."
+msgstr ""
+"Покажите миру свои крутые истории с помощью интерактивных и популярных "
+"хроник."
+
+#: admin/partials/ptl-settings.php:379
+msgid "Skin Type"
+msgstr "Тип кожи"
+
+#: admin/partials/ptl-settings.php:664
+#: admin/partials/shortcode-popup-html.php:90
+#: includes/vendors/elementor/widget.php:440
+msgid "Slide Up"
+msgstr "Скользить вверх"
+
+#: admin/partials/ptl-settings.php:241
+msgid "Slug"
+msgstr "Слизняк"
+
+#: admin/partials/ptl-settings.php:289
+msgid "Social Share Links Settings"
+msgstr "Настройки социальных сетей"
+
+#: admin/partials/ptl-settings.php:428
+#: admin/partials/shortcode-popup-html.php:216
+msgid "Solid"
+msgstr "Твердый"
+
+#: admin/partials/ptl-settings.php:180
+#: admin/partials/shortcode-popup-html.php:201
+#: includes/vendors/elementor/widget.php:458
+msgid "Sorting Order"
+msgstr "Порядок сортировки"
+
+#: admin/partials/ptl-settings.php:688
+msgid "Speed"
+msgstr "Скорость"
+
+#: admin/partials/ptl-settings.php:752
+msgid "Spinner"
+msgstr "Спиннер"
+
+#: admin/partials/ptl-settings.php:753
+msgid "Spinner Bubble"
+msgstr "Спиннер Пузырь"
+
+#: admin/partials/ptl-settings.php:751
+msgid "Spinner Glow"
+msgstr "Спиннер Свечение"
+
+#: admin/partials/ptl-settings.php:375
+msgid "Style"
+msgstr "Стиль"
+
+#: includes/vendors/elementor/widget.php:397
+msgid "Style 0"
+msgstr "Стиль 0"
+
+#: includes/vendors/elementor/widget.php:398
+msgid "Style 1"
+msgstr "Стиль 1"
+
+#: includes/vendors/elementor/widget.php:399
+msgid "Style 2"
+msgstr "Стиль 2"
+
+#: includes/vendors/elementor/widget.php:400
+msgid "Style 3"
+msgstr "Стиль 3"
+
+#: admin/partials/ptl-settings.php:17
+msgid "Styles"
+msgstr "Стили"
+
+#: includes/admin/feedback.php:184
+msgid "Submit & Deactivate"
+msgstr "Отправить и деактивировать"
+
+#: admin/partials/ptl-settings.php:163
+#: admin/partials/shortcode-popup-html.php:114
+msgid "Tag Based"
+msgstr "На основе тегов"
+
+#: admin/partials/multiple-templates-pro.php:38
+msgid "Tag Based & Datebased Post Creation."
+msgstr "Создание постов на основе тегов и дат."
+
+#: admin/partials/admin-fields.php:41
+msgid "Tag Line"
+msgstr "Линия тегов"
+
+#: admin/partials/ptl-settings.php:568
+msgid "Tag Line Color"
+msgstr "Цвет строки тега"
+
+#: includes/vendors/elementor/widget.php:381
+msgid "Template 0"
+msgstr "Шаблон 0"
+
+#: includes/vendors/elementor/widget.php:382
+msgid "Template 1"
+msgstr "Шаблон 1"
+
+#: includes/vendors/elementor/widget.php:383
+msgid "Template 2"
+msgstr "Шаблон 2"
+
+#: includes/vendors/elementor/widget.php:384
+msgid "Template 3"
+msgstr "Шаблон 3"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Timeline"
+msgstr "График"
+
+#: includes/admin/manager.php:224
+msgctxt "timeline"
+msgid "Add New Tag"
+msgstr "Добавить новый тег"
+
+#: includes/vendors/elementor/widget.php:234
+msgid "Timeline Categories"
+msgstr "Категории временной шкалы"
+
+#: admin/partials/multiple-templates-pro.php:46
+msgid "Timeline Customizations"
+msgstr "Настройки временной шкалы"
+
+#: includes/vendors/elementor/widget.php:347
+msgid "Timeline Layout"
+msgstr "Макет временной шкалы"
+
+#: includes/admin/manager.php:171
+msgctxt "Timeline Post"
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: includes/vendors/elementor/widget.php:363
+msgid "Timeline Skin"
+msgstr "Кожа временной шкалы"
+
+#: includes/vendors/elementor/widget.php:377
+msgid "Timeline Template Design"
+msgstr "Дизайн шаблона временной шкалы"
+
+#: admin/partials/ptl-settings.php:154
+msgid "Timeline Type"
+msgstr "Тип временной шкалы"
+
+#: admin/partials/multiple-templates-pro.php:26
+msgid "Timelines with Post"
+msgstr "Хронология с сообщением"
+
+#: admin/partials/ptl-settings.php:223
+msgid "Title link"
+msgstr "Ссылка на заголовок"
+
+#: admin/partials/multiple-templates-pro.php:218
+msgid ""
+"To add your specific timeline posts, you'll need to add a shortcode on your "
+"page and use it based on your timeline goals."
+msgstr ""
+"Чтобы добавить свои конкретные записи временной шкалы, вам нужно добавить "
+"шорткод на свою страницу и использовать его в зависимости от целей вашей "
+"временной шкалы."
+
+#: admin/partials/ptl-settings.php:142
+msgid "Upload Custom Icon"
+msgstr "Загрузить пользовательский значок"
+
+#: admin/partials/ptl-settings.php:129 admin/partials/admin-fields.php:109
+msgid "Upload Icon"
+msgstr "Загрузить значок"
+
+#: admin/partials/multiple-templates-pro.php:117
+msgid ""
+"Use Post timeline to create standard vertical timelines that display your "
+"posts."
+msgstr ""
+"Используйте временную шкалу публикации, чтобы создать стандартную "
+"вертикальную временную шкалу, отображающую ваши публикации."
+
+#: admin/partials/multiple-templates-pro.php:144
+msgid "Use this option to create a single-sided timeline"
+msgstr "Используйте этот параметр для создания односторонней временной шкалы."
+
+#: admin/partials/ptl-settings.php:86
+msgid "Use this option to hide/display post images"
+msgstr "Используйте эту опцию, чтобы скрыть/отобразить изображения постов."
+
+#: admin/partials/shortcode-popup-html.php:38
+msgid "Vertical"
+msgstr "Вертикальный"
+
+#: includes/vendors/elementor/widget.php:351
+msgid "Vertical Layout"
+msgstr "Вертикальное расположение"
+
+#: admin/partials/multiple-templates-pro.php:68
+#: admin/partials/multiple-templates-pro.php:116
+msgid "Vertical Timeline"
+msgstr "Вертикальная временная шкала"
+
+#: admin/partials/admin-fields.php:72
+msgid "Video URL"
+msgstr "URL-адрес видео"
+
+#: admin/partials/multiple-templates-pro.php:248
+msgid "View Our Tutorials"
+msgstr "Посмотреть наши учебники"
+
+#: includes/admin/manager.php:228
+msgid "View Tag"
+msgstr "Посмотреть тег"
+
+#: includes/admin/manager.php:175
+msgid "View Timeline Post"
+msgstr "Просмотр поста в хронике"
+
+#: admin/partials/multiple-templates-pro.php:239
+msgid "Want to Enhance Your Timeline Like a PRO?"
+msgstr "Хотите улучшить свою временную шкалу как профессионал?"
+
+#: admin/partials/multiple-templates-pro.php:171
+msgid ""
+"With Post timeline, you can easily personalize your timeline and settings."
+msgstr ""
+"С временной шкалой публикации вы можете легко персонализировать свою "
+"временную шкалу и настройки."
+
+#: includes/components/like.php:88
+msgid "You already have liked this post"
+msgstr "Вам уже понравился этот пост"
+
+#: admin/partials/multiple-templates-pro.php:162
+msgid ""
+"You can set the \"tone\" for your timeline by choosing either a light or "
+"dark skin"
+msgstr ""
+"Вы можете установить «тон» для своей временной шкалы, выбрав светлый или "
+"темный скин."
+
+#: admin/partials/ptl-settings.php:667
+#: admin/partials/shortcode-popup-html.php:93
+msgid "ZoomIn Left/Right"
+msgstr "Увеличение влево/вправо"
+
+#: admin/partials/ptl-settings.php:666
+#: admin/partials/shortcode-popup-html.php:92
+#: includes/vendors/elementor/widget.php:444
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+#: admin/partials/ptl-settings.php:665
+#: admin/partials/shortcode-popup-html.php:91
+#: includes/vendors/elementor/widget.php:443
+msgid "ZoomInUp"
+msgstr "ZoomInUp"
+
+#: admin/partials/ptl-settings.php:668
+#: admin/partials/shortcode-popup-html.php:94
+msgid "ZoomOut Left/Right"
+msgstr "Уменьшить влево/вправо"
